@@ -1,0 +1,1654 @@
+17:22:31.746 [main] INFO  com.solvd.Bookstore.BookStore - Welcome to the Bookstore!
+17:22:31.749 [main] INFO  com.solvd.Bookstore.BookStore -
+17:22:31.749 [main] INFO  com.solvd.Bookstore.BookStore - You are now in the main menu.
+17:22:31.750 [main] INFO  com.solvd.Bookstore.BookStore -
+17:22:31.750 [main] INFO  com.solvd.Bookstore.BookStore - Are you a customer or an admin?
+17:22:31.750 [main] INFO  com.solvd.Bookstore.BookStore - 1. Customer
+17:22:31.750 [main] INFO  com.solvd.Bookstore.BookStore - 2. Admin
+17:23:13.261 [main] INFO  com.solvd.Bookstore.BookStore - Welcome to the Bookstore!
+17:23:13.265 [main] INFO  com.solvd.Bookstore.BookStore -
+17:23:13.265 [main] INFO  com.solvd.Bookstore.BookStore - You are now in the main menu.
+17:23:13.265 [main] INFO  com.solvd.Bookstore.BookStore -
+17:23:13.267 [main] INFO  com.solvd.Bookstore.BookStore - Are you a customer or an admin?
+17:23:13.268 [main] INFO  com.solvd.Bookstore.BookStore - 1. Customer
+17:23:13.268 [main] INFO  com.solvd.Bookstore.BookStore - 2. Admin
+17:34:54.279 [main] INFO  com.solvd.Bookstore.BookStore - Welcome to the Bookstore!
+17:34:54.282 [main] INFO  com.solvd.Bookstore.BookStore -
+17:34:54.283 [main] INFO  com.solvd.Bookstore.BookStore - You are now in the main menu.
+17:34:54.283 [main] INFO  com.solvd.Bookstore.BookStore -
+17:34:54.283 [main] INFO  com.solvd.Bookstore.BookStore - Are you a customer or an admin?
+17:34:54.283 [main] INFO  com.solvd.Bookstore.BookStore - 1. Customer
+17:34:54.283 [main] INFO  com.solvd.Bookstore.BookStore - 2. Admin
+17:45:47.939 [main] INFO  com.solvd.Bookstore.BookStore - Welcome to the Bookstore!
+17:45:47.942 [main] INFO  com.solvd.Bookstore.BookStore -
+17:45:47.942 [main] INFO  com.solvd.Bookstore.BookStore - You are now in the main menu.
+17:45:47.943 [main] INFO  com.solvd.Bookstore.BookStore -
+17:45:47.943 [main] INFO  com.solvd.Bookstore.BookStore - Are you a customer or an admin?
+17:45:47.943 [main] INFO  com.solvd.Bookstore.BookStore - 1. Customer
+17:45:47.943 [main] INFO  com.solvd.Bookstore.BookStore - 2. Admin
+17:51:33.726 [main] INFO  com.solvd.Bookstore.BookStore - Welcome to the Bookstore!
+17:51:33.730 [main] INFO  com.solvd.Bookstore.BookStore -
+17:51:33.730 [main] INFO  com.solvd.Bookstore.BookStore - You are now in the main menu.
+17:51:33.730 [main] INFO  com.solvd.Bookstore.BookStore -
+17:51:33.731 [main] INFO  com.solvd.Bookstore.BookStore - Are you a customer or an admin?
+17:51:33.731 [main] INFO  com.solvd.Bookstore.BookStore - 1. Customer
+17:51:33.731 [main] INFO  com.solvd.Bookstore.BookStore - 2. Admin
+18:00:34.155 [main] INFO  com.solvd.Bookstore.BookStore - Welcome to the Bookstore!
+18:00:34.158 [main] INFO  com.solvd.Bookstore.BookStore -
+18:00:34.158 [main] INFO  com.solvd.Bookstore.BookStore - You are now in the main menu.
+18:00:34.159 [main] INFO  com.solvd.Bookstore.BookStore -
+18:00:34.159 [main] INFO  com.solvd.Bookstore.BookStore - Are you a customer or an admin?
+18:00:34.159 [main] INFO  com.solvd.Bookstore.BookStore - 1. Customer
+18:00:34.159 [main] INFO  com.solvd.Bookstore.BookStore - 2. Admin
+18:09:03.022 [main] INFO  com.solvd.Bookstore.BookStore - Welcome to the Bookstore!
+18:09:03.025 [main] INFO  com.solvd.Bookstore.BookStore -
+18:09:03.025 [main] INFO  com.solvd.Bookstore.BookStore - You are now in the main menu.
+18:09:03.026 [main] INFO  com.solvd.Bookstore.BookStore -
+18:09:03.026 [main] INFO  com.solvd.Bookstore.BookStore - Are you a customer or an admin?
+18:09:03.026 [main] INFO  com.solvd.Bookstore.BookStore - 1. Customer
+18:09:03.026 [main] INFO  com.solvd.Bookstore.BookStore - 2. Admin
+18:11:36.324 [main] INFO  com.solvd.Bookstore.BookStore - Welcome to the Bookstore!
+18:11:36.327 [main] INFO  com.solvd.Bookstore.BookStore -
+18:11:36.327 [main] INFO  com.solvd.Bookstore.BookStore - You are now in the main menu.
+18:11:36.328 [main] INFO  com.solvd.Bookstore.BookStore -
+18:11:36.328 [main] INFO  com.solvd.Bookstore.BookStore - Are you a customer or an admin?
+18:11:36.328 [main] INFO  com.solvd.Bookstore.BookStore - 1. Customer
+18:11:36.328 [main] INFO  com.solvd.Bookstore.BookStore - 2. Admin
+19:39:21.422 [main] INFO  com.solvd.Bookstore.BookStore - Welcome to the Bookstore!
+19:39:21.425 [main] INFO  com.solvd.Bookstore.BookStore -
+19:39:21.425 [main] INFO  com.solvd.Bookstore.BookStore - You are now in the main menu.
+19:39:21.425 [main] INFO  com.solvd.Bookstore.BookStore -
+19:39:21.425 [main] INFO  com.solvd.Bookstore.BookStore - Are you a customer or an admin?
+19:39:21.425 [main] INFO  com.solvd.Bookstore.BookStore - 1. Customer
+19:39:21.425 [main] INFO  com.solvd.Bookstore.BookStore - 2. Admin
+19:44:45.204 [main] INFO  com.solvd.Bookstore.BookStore - Welcome to the Bookstore!
+19:44:45.207 [main] INFO  com.solvd.Bookstore.BookStore -
+19:44:45.208 [main] INFO  com.solvd.Bookstore.BookStore - You are now in the main menu.
+19:44:45.208 [main] INFO  com.solvd.Bookstore.BookStore -
+19:44:45.208 [main] INFO  com.solvd.Bookstore.BookStore - Are you a customer or an admin?
+19:44:45.208 [main] INFO  com.solvd.Bookstore.BookStore - 1. Customer
+19:44:45.208 [main] INFO  com.solvd.Bookstore.BookStore - 2. Admin
+19:47:51.171 [main] INFO  com.solvd.Bookstore.BookStore - Welcome to the Bookstore!
+19:47:51.174 [main] INFO  com.solvd.Bookstore.BookStore -
+19:47:51.174 [main] INFO  com.solvd.Bookstore.BookStore - You are now in the main menu.
+19:47:51.174 [main] INFO  com.solvd.Bookstore.BookStore -
+19:47:51.174 [main] INFO  com.solvd.Bookstore.BookStore - Are you a customer or an admin?
+19:47:51.174 [main] INFO  com.solvd.Bookstore.BookStore - 1. Customer
+19:47:51.174 [main] INFO  com.solvd.Bookstore.BookStore - 2. Admin
+19:47:53.807 [main] INFO  com.solvd.Bookstore.BookStore - Do you want to login or sign up?
+19:47:53.807 [main] INFO  com.solvd.Bookstore.BookStore - 1. Login
+19:47:53.807 [main] INFO  com.solvd.Bookstore.BookStore - 2. Sign up
+19:47:57.732 [main] INFO  com.solvd.Bookstore.BookStore - What is your username
+19:48:01.781 [main] INFO  com.solvd.Bookstore.BookStore - What is your password
+19:48:04.534 [main] INFO  com.solvd.Bookstore.BookStore -
+19:48:04.534 [main] INFO  com.solvd.Bookstore.BookStore -
+19:48:04.535 [main] INFO  com.solvd.Bookstore.BookStore - Welcome customer to the Customer Menu
+19:48:04.535 [main] INFO  com.solvd.Bookstore.BookStore - What do you want to do?
+19:48:04.535 [main] INFO  com.solvd.Bookstore.BookStore - 1. Search for book by keyword
+19:48:04.535 [main] INFO  com.solvd.Bookstore.BookStore - 2. Show all books available
+19:48:04.535 [main] INFO  com.solvd.Bookstore.BookStore - 3. Show all books in the cart
+19:48:04.536 [main] INFO  com.solvd.Bookstore.BookStore - 4. Show book by category
+19:48:04.536 [main] INFO  com.solvd.Bookstore.BookStore - 5. Add book to cart
+19:48:04.536 [main] INFO  com.solvd.Bookstore.BookStore - 6. Checkout
+19:48:04.536 [main] INFO  com.solvd.Bookstore.BookStore - 7. Change Username
+19:48:04.536 [main] INFO  com.solvd.Bookstore.BookStore - 8. Change Password
+19:48:35.602 [main] INFO  com.solvd.Bookstore.BookStore - Welcome to the Bookstore!
+19:48:35.605 [main] INFO  com.solvd.Bookstore.BookStore -
+19:48:35.605 [main] INFO  com.solvd.Bookstore.BookStore - You are now in the main menu.
+19:48:35.605 [main] INFO  com.solvd.Bookstore.BookStore -
+19:48:35.605 [main] INFO  com.solvd.Bookstore.BookStore - Are you a customer or an admin?
+19:48:35.605 [main] INFO  com.solvd.Bookstore.BookStore - 1. Customer
+19:48:35.605 [main] INFO  com.solvd.Bookstore.BookStore - 2. Admin
+20:42:24.900 [main] INFO  com.solvd.Bookstore.BookStore - Welcome to the Bookstore!
+20:42:24.903 [main] INFO  com.solvd.Bookstore.BookStore - 
+20:42:24.903 [main] INFO  com.solvd.Bookstore.BookStore - You are now in the main menu.
+20:42:24.903 [main] INFO  com.solvd.Bookstore.BookStore - 
+20:42:24.903 [main] INFO  com.solvd.Bookstore.BookStore - Are you a customer or an admin?
+20:42:24.903 [main] INFO  com.solvd.Bookstore.BookStore - 1. Customer
+20:42:24.903 [main] INFO  com.solvd.Bookstore.BookStore - 2. Admin
+20:48:37.114 [main] INFO  com.solvd.Bookstore.BookStore - Welcome to the Bookstore!
+20:48:37.117 [main] INFO  com.solvd.Bookstore.BookStore - 
+20:48:37.117 [main] INFO  com.solvd.Bookstore.BookStore - You are now in the main menu.
+20:48:37.117 [main] INFO  com.solvd.Bookstore.BookStore - 
+20:48:37.117 [main] INFO  com.solvd.Bookstore.BookStore - Are you a customer or an admin?
+20:48:37.117 [main] INFO  com.solvd.Bookstore.BookStore - 1. Customer
+20:48:37.117 [main] INFO  com.solvd.Bookstore.BookStore - 2. Admin
+20:49:25.273 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+20:49:25.275 [main] INFO  com.solvd.bookstore.BookStore - 
+20:49:25.275 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+20:49:25.275 [main] INFO  com.solvd.bookstore.BookStore - 
+20:49:25.275 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+20:49:25.276 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+20:49:25.276 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+20:49:30.690 [main] INFO  com.solvd.bookstore.BookStore - Do you want to login or sign up?
+20:49:30.690 [main] INFO  com.solvd.bookstore.BookStore - 1. Login
+20:49:30.690 [main] INFO  com.solvd.bookstore.BookStore - 2. Sign up
+20:49:33.777 [main] INFO  com.solvd.bookstore.BookStore - What is your username
+20:49:36.442 [main] INFO  com.solvd.bookstore.BookStore - What is your password
+20:49:37.970 [main] INFO  com.solvd.bookstore.BookStore - 
+20:49:37.970 [main] INFO  com.solvd.bookstore.BookStore - 
+20:49:37.972 [main] INFO  com.solvd.bookstore.BookStore - Welcome customer to the Customer Menu
+20:49:37.972 [main] INFO  com.solvd.bookstore.BookStore - What do you want to do?
+20:49:37.972 [main] INFO  com.solvd.bookstore.BookStore - 1. Search for book by keyword
+20:49:37.972 [main] INFO  com.solvd.bookstore.BookStore - 2. Show all books available
+20:49:37.973 [main] INFO  com.solvd.bookstore.BookStore - 3. Show all books in the cart
+20:49:37.973 [main] INFO  com.solvd.bookstore.BookStore - 4. Show book by category
+20:49:37.973 [main] INFO  com.solvd.bookstore.BookStore - 5. Add book to cart
+20:49:37.973 [main] INFO  com.solvd.bookstore.BookStore - 6. Checkout
+20:49:37.973 [main] INFO  com.solvd.bookstore.BookStore - 7. Change Username
+20:49:37.973 [main] INFO  com.solvd.bookstore.BookStore - 8. Change Password
+21:17:24.215 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+21:17:24.217 [main] INFO  com.solvd.bookstore.BookStore - 
+21:17:24.217 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+21:17:24.217 [main] INFO  com.solvd.bookstore.BookStore - 
+21:17:24.217 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+21:17:24.218 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+21:17:24.218 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+21:17:29.305 [main] INFO  com.solvd.bookstore.BookStore - Do you want to login or sign up?
+21:17:29.305 [main] INFO  com.solvd.bookstore.BookStore - 1. Login
+21:17:29.305 [main] INFO  com.solvd.bookstore.BookStore - 2. Sign up
+21:33:21.080 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+21:33:21.082 [main] INFO  com.solvd.bookstore.BookStore - 
+21:33:21.082 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+21:33:21.082 [main] INFO  com.solvd.bookstore.BookStore - 
+21:33:21.082 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+21:33:21.082 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+21:33:21.082 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+21:51:16.732 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+21:51:16.734 [main] INFO  com.solvd.bookstore.BookStore - 
+21:51:16.734 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+21:51:16.734 [main] INFO  com.solvd.bookstore.BookStore - 
+21:51:16.735 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+21:51:16.735 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+21:51:16.735 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+21:56:58.574 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+21:56:58.577 [main] INFO  com.solvd.bookstore.BookStore - 
+21:56:58.577 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+21:56:58.577 [main] INFO  com.solvd.bookstore.BookStore - 
+21:56:58.577 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+21:56:58.578 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+21:56:58.578 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+22:03:20.634 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+22:03:20.636 [main] INFO  com.solvd.bookstore.BookStore - 
+22:03:20.636 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+22:03:20.636 [main] INFO  com.solvd.bookstore.BookStore - 
+22:03:20.636 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+22:03:20.637 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+22:03:20.637 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+22:03:33.356 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+22:03:33.358 [main] INFO  com.solvd.bookstore.BookStore - 
+22:03:33.358 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+22:03:33.358 [main] INFO  com.solvd.bookstore.BookStore - 
+22:03:33.358 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+22:03:33.358 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+22:03:33.358 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+19:24:49.811 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+19:24:49.816 [main] INFO  com.solvd.bookstore.BookStore - 
+19:24:49.816 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+19:24:49.816 [main] INFO  com.solvd.bookstore.BookStore - 
+19:24:49.816 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+19:24:49.817 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+19:24:49.817 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+19:32:42.386 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+19:32:42.390 [main] INFO  com.solvd.bookstore.BookStore - 
+19:32:42.390 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+19:32:42.391 [main] INFO  com.solvd.bookstore.BookStore - 
+19:32:42.391 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+19:32:42.391 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+19:32:42.392 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+09:51:49.281 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+09:51:49.284 [main] INFO  com.solvd.bookstore.BookStore - 
+09:51:49.284 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+09:51:49.284 [main] INFO  com.solvd.bookstore.BookStore - 
+09:51:49.284 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+09:51:49.284 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+09:51:49.284 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+09:26:30.581 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+09:26:30.584 [main] INFO  com.solvd.bookstore.BookStore - 
+09:26:30.584 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+09:26:30.584 [main] INFO  com.solvd.bookstore.BookStore - 
+09:26:30.584 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+09:26:30.584 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+09:26:30.584 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+09:08:20.684 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+09:08:20.686 [main] INFO  com.solvd.bookstore.BookStore - 
+09:08:20.686 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+09:08:20.686 [main] INFO  com.solvd.bookstore.BookStore - 
+09:08:20.686 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+09:08:20.686 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+09:08:20.686 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+09:15:03.975 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+09:15:03.977 [main] INFO  com.solvd.bookstore.BookStore - 
+09:15:03.977 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+09:15:03.977 [main] INFO  com.solvd.bookstore.BookStore - 
+09:15:03.978 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+09:15:03.978 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+09:15:03.978 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+09:18:10.856 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+09:18:10.858 [main] INFO  com.solvd.bookstore.BookStore - 
+09:18:10.858 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+09:18:10.858 [main] INFO  com.solvd.bookstore.BookStore - 
+09:18:10.858 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+09:18:10.858 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+09:18:10.858 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+09:24:46.861 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+09:24:46.863 [main] INFO  com.solvd.bookstore.BookStore - 
+09:24:46.863 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+09:24:46.863 [main] INFO  com.solvd.bookstore.BookStore - 
+09:24:46.863 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+09:24:46.863 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+09:24:46.863 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+09:32:06.846 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+09:32:06.848 [main] INFO  com.solvd.bookstore.BookStore - 
+09:32:06.848 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+09:32:06.848 [main] INFO  com.solvd.bookstore.BookStore - 
+09:32:06.848 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+09:32:06.849 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+09:32:06.849 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+09:42:14.242 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+09:42:14.244 [main] INFO  com.solvd.bookstore.BookStore - 
+09:42:14.244 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+09:42:14.244 [main] INFO  com.solvd.bookstore.BookStore - 
+09:42:14.245 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+09:42:14.245 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+09:42:14.245 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+09:50:02.565 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+09:50:02.568 [main] INFO  com.solvd.bookstore.BookStore - 
+09:50:02.568 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+09:50:02.568 [main] INFO  com.solvd.bookstore.BookStore - 
+09:50:02.568 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+09:50:02.568 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+09:50:02.568 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+09:52:17.676 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+09:52:17.678 [main] INFO  com.solvd.bookstore.BookStore - 
+09:52:17.678 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+09:52:17.679 [main] INFO  com.solvd.bookstore.BookStore - 
+09:52:17.679 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+09:52:17.679 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+09:52:17.679 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+10:15:01.723 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+10:15:01.726 [main] INFO  com.solvd.bookstore.BookStore - 
+10:15:01.726 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+10:15:01.726 [main] INFO  com.solvd.bookstore.BookStore - 
+10:15:01.726 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+10:15:01.726 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+10:15:01.726 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+10:18:56.417 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+10:18:56.419 [main] INFO  com.solvd.bookstore.BookStore - 
+10:18:56.419 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+10:18:56.419 [main] INFO  com.solvd.bookstore.BookStore - 
+10:18:56.419 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+10:18:56.419 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+10:18:56.419 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+10:20:20.577 [main] INFO  com.solvd.bookstore.BookStore - Do you want to login or sign up?
+10:20:20.578 [main] INFO  com.solvd.bookstore.BookStore - 1. Login
+10:20:20.578 [main] INFO  com.solvd.bookstore.BookStore - 2. Sign up
+10:20:22.390 [main] INFO  com.solvd.bookstore.BookStore - What is your username
+10:20:25.284 [main] INFO  com.solvd.bookstore.BookStore - What is your password
+10:20:28.091 [main] INFO  com.solvd.bookstore.BookStore - 
+10:20:28.091 [main] INFO  com.solvd.bookstore.BookStore - 
+10:20:28.091 [main] INFO  com.solvd.bookstore.BookStore - Welcome customer to the Customer Menu
+10:20:28.092 [main] INFO  com.solvd.bookstore.BookStore - What do you want to do?
+10:20:28.092 [main] INFO  com.solvd.bookstore.BookStore - 1. Search for book by keyword
+10:20:28.092 [main] INFO  com.solvd.bookstore.BookStore - 2. Show all books available
+10:20:28.092 [main] INFO  com.solvd.bookstore.BookStore - 3. Show all books in the cart
+10:20:28.092 [main] INFO  com.solvd.bookstore.BookStore - 4. Show book by category
+10:20:28.092 [main] INFO  com.solvd.bookstore.BookStore - 5. Add book to cart
+10:20:28.092 [main] INFO  com.solvd.bookstore.BookStore - 6. Checkout
+10:20:28.092 [main] INFO  com.solvd.bookstore.BookStore - 7. Change Username
+10:20:28.093 [main] INFO  com.solvd.bookstore.BookStore - 8. Change Password
+10:20:34.397 [main] INFO  com.solvd.bookstore.BookStore - What category are you interested in?
+10:20:42.650 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+10:20:42.650 [main] INFO  com.solvd.bookstore.BookStore - 
+10:20:42.650 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+10:20:42.650 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+10:20:42.651 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+10:35:14.520 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+10:35:14.522 [main] INFO  com.solvd.bookstore.BookStore - 
+10:35:14.523 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+10:35:14.523 [main] INFO  com.solvd.bookstore.BookStore - 
+10:35:14.523 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+10:35:14.523 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+10:35:14.523 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+10:35:48.693 [main] INFO  com.solvd.bookstore.BookStore - You are in the admin login menu
+10:35:48.693 [main] INFO  com.solvd.bookstore.BookStore - Type in 0 as your username to go to the main menu!
+10:35:48.693 [main] INFO  com.solvd.bookstore.BookStore - What is your username?
+10:35:59.679 [main] INFO  com.solvd.bookstore.BookStore - What is your password?
+10:36:02.723 [main] INFO  com.solvd.bookstore.BookStore - Welcome admin to the Admin Menu
+10:36:02.723 [main] INFO  com.solvd.bookstore.BookStore - What do you want to do?
+10:36:02.723 [main] INFO  com.solvd.bookstore.BookStore - 1. Add a new book
+10:36:02.723 [main] INFO  com.solvd.bookstore.BookStore - 2. Delete a book
+10:36:02.723 [main] INFO  com.solvd.bookstore.BookStore - 3. Show all the books
+10:36:02.723 [main] INFO  com.solvd.bookstore.BookStore - 4. Show all the orders
+10:36:02.724 [main] INFO  com.solvd.bookstore.BookStore - 5. Change Username
+10:36:02.724 [main] INFO  com.solvd.bookstore.BookStore - 6. Change Password
+10:37:12.410 [main] INFO  com.solvd.bookstore.BookStore - The book with the title this is a book has been added to the inventory
+10:37:12.410 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+10:37:12.411 [main] INFO  com.solvd.bookstore.BookStore - 
+10:37:12.411 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+10:37:12.411 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+10:37:12.411 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+10:37:17.423 [main] INFO  com.solvd.bookstore.BookStore - Do you want to login or sign up?
+10:37:17.423 [main] INFO  com.solvd.bookstore.BookStore - 1. Login
+10:37:17.423 [main] INFO  com.solvd.bookstore.BookStore - 2. Sign up
+10:37:19.345 [main] INFO  com.solvd.bookstore.BookStore - What is your username
+10:37:21.675 [main] INFO  com.solvd.bookstore.BookStore - What is your password
+10:37:26.409 [main] INFO  com.solvd.bookstore.BookStore - 
+10:37:26.409 [main] INFO  com.solvd.bookstore.BookStore - 
+10:37:26.410 [main] INFO  com.solvd.bookstore.BookStore - Welcome customer to the Customer Menu
+10:37:26.410 [main] INFO  com.solvd.bookstore.BookStore - What do you want to do?
+10:37:26.410 [main] INFO  com.solvd.bookstore.BookStore - 1. Search for book by keyword
+10:37:26.410 [main] INFO  com.solvd.bookstore.BookStore - 2. Show all books available
+10:37:26.410 [main] INFO  com.solvd.bookstore.BookStore - 3. Show all books in the cart
+10:37:26.410 [main] INFO  com.solvd.bookstore.BookStore - 4. Show book by category
+10:37:26.410 [main] INFO  com.solvd.bookstore.BookStore - 5. Add book to cart
+10:37:26.410 [main] INFO  com.solvd.bookstore.BookStore - 6. Checkout
+10:37:26.410 [main] INFO  com.solvd.bookstore.BookStore - 7. Change Username
+10:37:26.410 [main] INFO  com.solvd.bookstore.BookStore - 8. Change Password
+10:37:29.207 [main] INFO  com.solvd.bookstore.BookStore - What category are you interested in?
+10:37:33.470 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+10:37:33.470 [main] INFO  com.solvd.bookstore.BookStore - 
+10:37:33.470 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+10:37:33.470 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+10:37:33.470 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+10:42:14.231 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+10:42:14.233 [main] INFO  com.solvd.bookstore.BookStore - 
+10:42:14.233 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+10:42:14.233 [main] INFO  com.solvd.bookstore.BookStore - 
+10:42:14.233 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+10:42:14.233 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+10:42:14.233 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+11:00:53.053 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+11:00:53.055 [main] INFO  com.solvd.bookstore.BookStore - 
+11:00:53.055 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+11:00:53.055 [main] INFO  com.solvd.bookstore.BookStore - 
+11:00:53.056 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+11:00:53.056 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+11:00:53.056 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+11:21:48.688 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+11:21:48.691 [main] INFO  com.solvd.bookstore.BookStore - 
+11:21:48.691 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+11:21:48.691 [main] INFO  com.solvd.bookstore.BookStore - 
+11:21:48.691 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+11:21:48.691 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+11:21:48.691 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+11:22:07.618 [main] INFO  com.solvd.bookstore.BookStore - Do you want to login or sign up?
+11:22:07.618 [main] INFO  com.solvd.bookstore.BookStore - 1. Login
+11:22:07.618 [main] INFO  com.solvd.bookstore.BookStore - 2. Sign up
+11:22:09.132 [main] INFO  com.solvd.bookstore.BookStore - What is your username
+11:22:11.567 [main] INFO  com.solvd.bookstore.BookStore - What is your password
+11:22:13.053 [main] INFO  com.solvd.bookstore.BookStore - 
+11:22:13.054 [main] INFO  com.solvd.bookstore.BookStore - 
+11:22:13.054 [main] INFO  com.solvd.bookstore.BookStore - Welcome customer to the Customer Menu
+11:22:13.054 [main] INFO  com.solvd.bookstore.BookStore - What do you want to do?
+11:22:13.054 [main] INFO  com.solvd.bookstore.BookStore - 1. Search for book by keyword
+11:22:13.054 [main] INFO  com.solvd.bookstore.BookStore - 2. Show all books available
+11:22:13.054 [main] INFO  com.solvd.bookstore.BookStore - 3. Show all books in the cart
+11:22:13.055 [main] INFO  com.solvd.bookstore.BookStore - 4. Show book by category
+11:22:13.055 [main] INFO  com.solvd.bookstore.BookStore - 5. Add book to cart
+11:22:13.055 [main] INFO  com.solvd.bookstore.BookStore - 6. Checkout
+11:22:13.055 [main] INFO  com.solvd.bookstore.BookStore - 7. Change Username
+11:22:13.055 [main] INFO  com.solvd.bookstore.BookStore - 8. Change Password
+11:22:16.064 [main] INFO  com.solvd.bookstore.BookStore - What category are you interested in?
+11:22:20.641 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+11:22:20.641 [main] INFO  com.solvd.bookstore.BookStore - 
+11:22:20.642 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+11:22:20.642 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+11:22:20.642 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+11:22:34.557 [main] INFO  com.solvd.bookstore.BookStore - Do you want to login or sign up?
+11:22:34.557 [main] INFO  com.solvd.bookstore.BookStore - 1. Login
+11:22:34.557 [main] INFO  com.solvd.bookstore.BookStore - 2. Sign up
+11:22:35.966 [main] INFO  com.solvd.bookstore.BookStore - What is your username
+11:22:38.145 [main] INFO  com.solvd.bookstore.BookStore - What is your password
+11:22:41.804 [main] ERROR com.solvd.bookstore.BookStore - You are trying to login as an customer
+11:22:41.804 [main] INFO  com.solvd.bookstore.BookStore - Try to login as a admin
+11:22:41.805 [main] INFO  com.solvd.bookstore.BookStore - 
+11:22:41.805 [main] INFO  com.solvd.bookstore.BookStore - You are in the admin login menu
+11:22:41.805 [main] INFO  com.solvd.bookstore.BookStore - Type in 0 as your username to go to the main menu!
+11:22:41.805 [main] INFO  com.solvd.bookstore.BookStore - What is your username?
+11:22:54.032 [main] INFO  com.solvd.bookstore.BookStore - What is your password?
+11:22:55.847 [main] INFO  com.solvd.bookstore.BookStore - Welcome admin to the Admin Menu
+11:22:55.847 [main] INFO  com.solvd.bookstore.BookStore - What do you want to do?
+11:22:55.847 [main] INFO  com.solvd.bookstore.BookStore - 1. Add a new book
+11:22:55.847 [main] INFO  com.solvd.bookstore.BookStore - 2. Delete a book
+11:22:55.847 [main] INFO  com.solvd.bookstore.BookStore - 3. Show all the books
+11:22:55.847 [main] INFO  com.solvd.bookstore.BookStore - 4. Show all the orders
+11:22:55.847 [main] INFO  com.solvd.bookstore.BookStore - 5. Change Username
+11:22:55.848 [main] INFO  com.solvd.bookstore.BookStore - 6. Change Password
+11:22:59.040 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+11:22:59.041 [main] INFO  com.solvd.bookstore.BookStore - 
+11:22:59.041 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+11:22:59.041 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+11:22:59.041 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+11:23:16.370 [main] ERROR com.solvd.bookstore.BookStore - You are only allowed to enter 1 and 2
+11:23:16.370 [main] INFO  com.solvd.bookstore.BookStore - You are in the admin login menu
+11:23:16.370 [main] INFO  com.solvd.bookstore.BookStore - Type in 0 as your username to go to the main menu!
+11:23:16.370 [main] INFO  com.solvd.bookstore.BookStore - What is your username?
+11:23:24.175 [main] INFO  com.solvd.bookstore.BookStore - What is your password?
+11:23:27.198 [main] ERROR com.solvd.bookstore.BookStore - An error occurred: User was not found
+11:23:36.777 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+11:23:36.779 [main] INFO  com.solvd.bookstore.BookStore - 
+11:23:36.779 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+11:23:36.779 [main] INFO  com.solvd.bookstore.BookStore - 
+11:23:36.780 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+11:23:36.780 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+11:23:36.780 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+11:23:39.169 [main] INFO  com.solvd.bookstore.BookStore - You are in the admin login menu
+11:23:39.169 [main] INFO  com.solvd.bookstore.BookStore - Type in 0 as your username to go to the main menu!
+11:23:39.169 [main] INFO  com.solvd.bookstore.BookStore - What is your username?
+11:23:42.662 [main] INFO  com.solvd.bookstore.BookStore - What is your password?
+11:23:46.012 [main] INFO  com.solvd.bookstore.BookStore - Welcome admin to the Admin Menu
+11:23:46.013 [main] INFO  com.solvd.bookstore.BookStore - What do you want to do?
+11:23:46.013 [main] INFO  com.solvd.bookstore.BookStore - 1. Add a new book
+11:23:46.013 [main] INFO  com.solvd.bookstore.BookStore - 2. Delete a book
+11:23:46.013 [main] INFO  com.solvd.bookstore.BookStore - 3. Show all the books
+11:23:46.013 [main] INFO  com.solvd.bookstore.BookStore - 4. Show all the orders
+11:23:46.013 [main] INFO  com.solvd.bookstore.BookStore - 5. Change Username
+11:23:46.013 [main] INFO  com.solvd.bookstore.BookStore - 6. Change Password
+11:23:48.661 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+11:23:48.662 [main] INFO  com.solvd.bookstore.BookStore - 
+11:23:48.662 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+11:23:48.662 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+11:23:48.662 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+11:24:33.091 [main] INFO  com.solvd.bookstore.BookStore - You are in the admin login menu
+11:24:33.092 [main] INFO  com.solvd.bookstore.BookStore - Type in 0 as your username to go to the main menu!
+11:24:33.092 [main] INFO  com.solvd.bookstore.BookStore - What is your username?
+11:24:35.885 [main] INFO  com.solvd.bookstore.BookStore - What is your password?
+11:24:43.506 [main] INFO  com.solvd.bookstore.BookStore - Welcome admin to the Admin Menu
+11:24:43.506 [main] INFO  com.solvd.bookstore.BookStore - What do you want to do?
+11:24:43.507 [main] INFO  com.solvd.bookstore.BookStore - 1. Add a new book
+11:24:43.507 [main] INFO  com.solvd.bookstore.BookStore - 2. Delete a book
+11:24:43.507 [main] INFO  com.solvd.bookstore.BookStore - 3. Show all the books
+11:24:43.507 [main] INFO  com.solvd.bookstore.BookStore - 4. Show all the orders
+11:24:43.507 [main] INFO  com.solvd.bookstore.BookStore - 5. Change Username
+11:24:43.507 [main] INFO  com.solvd.bookstore.BookStore - 6. Change Password
+11:25:28.856 [main] INFO  com.solvd.bookstore.BookStore - The book with the title titile has been added to the inventory
+11:25:28.856 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+11:25:28.857 [main] INFO  com.solvd.bookstore.BookStore - 
+11:25:28.857 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+11:25:28.857 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+11:25:28.857 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+11:25:36.053 [main] INFO  com.solvd.bookstore.BookStore - Do you want to login or sign up?
+11:25:36.053 [main] INFO  com.solvd.bookstore.BookStore - 1. Login
+11:25:36.053 [main] INFO  com.solvd.bookstore.BookStore - 2. Sign up
+11:25:37.506 [main] INFO  com.solvd.bookstore.BookStore - What is your username
+11:25:40.041 [main] INFO  com.solvd.bookstore.BookStore - What is your password
+11:25:42.097 [main] INFO  com.solvd.bookstore.BookStore - 
+11:25:42.097 [main] INFO  com.solvd.bookstore.BookStore - 
+11:25:42.098 [main] INFO  com.solvd.bookstore.BookStore - Welcome customer to the Customer Menu
+11:25:42.098 [main] INFO  com.solvd.bookstore.BookStore - What do you want to do?
+11:25:42.098 [main] INFO  com.solvd.bookstore.BookStore - 1. Search for book by keyword
+11:25:42.099 [main] INFO  com.solvd.bookstore.BookStore - 2. Show all books available
+11:25:42.099 [main] INFO  com.solvd.bookstore.BookStore - 3. Show all books in the cart
+11:25:42.099 [main] INFO  com.solvd.bookstore.BookStore - 4. Show book by category
+11:25:42.099 [main] INFO  com.solvd.bookstore.BookStore - 5. Add book to cart
+11:25:42.099 [main] INFO  com.solvd.bookstore.BookStore - 6. Checkout
+11:25:42.099 [main] INFO  com.solvd.bookstore.BookStore - 7. Change Username
+11:25:42.099 [main] INFO  com.solvd.bookstore.BookStore - 8. Change Password
+11:25:49.548 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+11:25:49.548 [main] INFO  com.solvd.bookstore.BookStore - 
+11:25:49.548 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+11:25:49.548 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+11:25:49.548 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+11:25:58.454 [main] INFO  com.solvd.bookstore.BookStore - Do you want to login or sign up?
+11:25:58.454 [main] INFO  com.solvd.bookstore.BookStore - 1. Login
+11:25:58.455 [main] INFO  com.solvd.bookstore.BookStore - 2. Sign up
+11:25:59.964 [main] INFO  com.solvd.bookstore.BookStore - What is your username
+11:26:02.564 [main] INFO  com.solvd.bookstore.BookStore - What is your password
+11:26:07.961 [main] INFO  com.solvd.bookstore.BookStore - 
+11:26:07.961 [main] INFO  com.solvd.bookstore.BookStore - 
+11:26:07.962 [main] INFO  com.solvd.bookstore.BookStore - Welcome customer to the Customer Menu
+11:26:07.962 [main] INFO  com.solvd.bookstore.BookStore - What do you want to do?
+11:26:07.962 [main] INFO  com.solvd.bookstore.BookStore - 1. Search for book by keyword
+11:26:07.962 [main] INFO  com.solvd.bookstore.BookStore - 2. Show all books available
+11:26:07.962 [main] INFO  com.solvd.bookstore.BookStore - 3. Show all books in the cart
+11:26:07.962 [main] INFO  com.solvd.bookstore.BookStore - 4. Show book by category
+11:26:07.962 [main] INFO  com.solvd.bookstore.BookStore - 5. Add book to cart
+11:26:07.962 [main] INFO  com.solvd.bookstore.BookStore - 6. Checkout
+11:26:07.963 [main] INFO  com.solvd.bookstore.BookStore - 7. Change Username
+11:26:07.963 [main] INFO  com.solvd.bookstore.BookStore - 8. Change Password
+11:26:10.492 [main] INFO  com.solvd.bookstore.BookStore - What category are you interested in?
+11:26:13.854 [main] ERROR com.solvd.bookstore.BookStore - An error occurred: No enum constant com.solvd.bookstore.entities.Category.fiction
+11:26:13.855 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+11:26:13.855 [main] INFO  com.solvd.bookstore.BookStore - 
+11:26:13.855 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+11:26:13.855 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+11:26:13.855 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+11:26:22.210 [main] INFO  com.solvd.bookstore.BookStore - Do you want to login or sign up?
+11:26:22.210 [main] INFO  com.solvd.bookstore.BookStore - 1. Login
+11:26:22.210 [main] INFO  com.solvd.bookstore.BookStore - 2. Sign up
+11:26:24.500 [main] INFO  com.solvd.bookstore.BookStore - What is your username
+11:26:26.987 [main] INFO  com.solvd.bookstore.BookStore - What is your password
+11:26:29.131 [main] INFO  com.solvd.bookstore.BookStore - 
+11:26:29.131 [main] INFO  com.solvd.bookstore.BookStore - 
+11:26:29.132 [main] INFO  com.solvd.bookstore.BookStore - Welcome customer to the Customer Menu
+11:26:29.132 [main] INFO  com.solvd.bookstore.BookStore - What do you want to do?
+11:26:29.132 [main] INFO  com.solvd.bookstore.BookStore - 1. Search for book by keyword
+11:26:29.132 [main] INFO  com.solvd.bookstore.BookStore - 2. Show all books available
+11:26:29.132 [main] INFO  com.solvd.bookstore.BookStore - 3. Show all books in the cart
+11:26:29.132 [main] INFO  com.solvd.bookstore.BookStore - 4. Show book by category
+11:26:29.132 [main] INFO  com.solvd.bookstore.BookStore - 5. Add book to cart
+11:26:29.132 [main] INFO  com.solvd.bookstore.BookStore - 6. Checkout
+11:26:29.133 [main] INFO  com.solvd.bookstore.BookStore - 7. Change Username
+11:26:29.133 [main] INFO  com.solvd.bookstore.BookStore - 8. Change Password
+11:26:31.406 [main] INFO  com.solvd.bookstore.BookStore - What category are you interested in?
+11:26:33.960 [main] ERROR com.solvd.bookstore.BookStore - An error occurred: No enum constant com.solvd.bookstore.entities.Category.Fiction
+11:26:33.961 [main] INFO  com.solvd.bookstore.BookStore - You are in the admin login menu
+11:26:33.961 [main] INFO  com.solvd.bookstore.BookStore - Type in 0 as your username to go to the main menu!
+11:26:33.961 [main] INFO  com.solvd.bookstore.BookStore - What is your username?
+11:26:42.836 [main] INFO  com.solvd.bookstore.BookStore - What is your password?
+11:26:45.279 [main] ERROR com.solvd.bookstore.BookStore - An error occurred: User was not found
+11:26:45.280 [main] INFO  com.solvd.bookstore.BookStore - You are in the admin login menu
+11:26:45.280 [main] INFO  com.solvd.bookstore.BookStore - Type in 0 as your username to go to the main menu!
+11:26:45.280 [main] INFO  com.solvd.bookstore.BookStore - What is your username?
+11:26:50.853 [main] INFO  com.solvd.bookstore.BookStore - What is your password?
+11:26:53.687 [main] INFO  com.solvd.bookstore.BookStore - Welcome admin to the Admin Menu
+11:26:53.688 [main] INFO  com.solvd.bookstore.BookStore - What do you want to do?
+11:26:53.688 [main] INFO  com.solvd.bookstore.BookStore - 1. Add a new book
+11:26:53.688 [main] INFO  com.solvd.bookstore.BookStore - 2. Delete a book
+11:26:53.688 [main] INFO  com.solvd.bookstore.BookStore - 3. Show all the books
+11:26:53.688 [main] INFO  com.solvd.bookstore.BookStore - 4. Show all the orders
+11:26:53.688 [main] INFO  com.solvd.bookstore.BookStore - 5. Change Username
+11:26:53.688 [main] INFO  com.solvd.bookstore.BookStore - 6. Change Password
+11:26:56.775 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+11:26:56.775 [main] INFO  com.solvd.bookstore.BookStore - 
+11:26:56.775 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+11:26:56.775 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+11:26:56.776 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+11:27:04.673 [main] INFO  com.solvd.bookstore.BookStore - Do you want to login or sign up?
+11:27:04.673 [main] INFO  com.solvd.bookstore.BookStore - 1. Login
+11:27:04.673 [main] INFO  com.solvd.bookstore.BookStore - 2. Sign up
+11:27:05.843 [main] INFO  com.solvd.bookstore.BookStore - What is your username
+11:27:09.672 [main] INFO  com.solvd.bookstore.BookStore - What is your password
+11:27:12.451 [main] INFO  com.solvd.bookstore.BookStore - 
+11:27:12.451 [main] INFO  com.solvd.bookstore.BookStore - 
+11:27:12.451 [main] INFO  com.solvd.bookstore.BookStore - Welcome customer to the Customer Menu
+11:27:12.451 [main] INFO  com.solvd.bookstore.BookStore - What do you want to do?
+11:27:12.451 [main] INFO  com.solvd.bookstore.BookStore - 1. Search for book by keyword
+11:27:12.451 [main] INFO  com.solvd.bookstore.BookStore - 2. Show all books available
+11:27:12.451 [main] INFO  com.solvd.bookstore.BookStore - 3. Show all books in the cart
+11:27:12.451 [main] INFO  com.solvd.bookstore.BookStore - 4. Show book by category
+11:27:12.451 [main] INFO  com.solvd.bookstore.BookStore - 5. Add book to cart
+11:27:12.451 [main] INFO  com.solvd.bookstore.BookStore - 6. Checkout
+11:27:12.451 [main] INFO  com.solvd.bookstore.BookStore - 7. Change Username
+11:27:12.452 [main] INFO  com.solvd.bookstore.BookStore - 8. Change Password
+11:27:14.392 [main] INFO  com.solvd.bookstore.BookStore - What category are you interested in?
+11:27:17.989 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+11:27:17.989 [main] INFO  com.solvd.bookstore.BookStore - 
+11:27:17.989 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+11:27:17.989 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+11:27:17.989 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+11:49:27.217 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+11:49:27.219 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+11:49:27.219 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+11:49:27.225 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+11:49:27.225 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+11:49:27.225 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+11:49:27.226 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+11:49:27.226 [main] INFO  com.solvd.bookstore.BookStore - 
+11:49:27.226 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+11:49:27.226 [main] INFO  com.solvd.bookstore.BookStore - 
+11:49:27.226 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+11:49:27.226 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+11:49:27.226 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+11:50:17.546 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+11:50:17.548 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+11:50:17.548 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+11:50:17.554 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+11:50:17.554 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+11:50:17.554 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+11:50:17.554 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+11:50:17.554 [main] INFO  com.solvd.bookstore.BookStore - 
+11:50:17.554 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+11:50:17.555 [main] INFO  com.solvd.bookstore.BookStore - 
+11:50:17.555 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+11:50:17.555 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+11:50:17.555 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+11:51:26.218 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+11:51:26.219 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+11:51:26.220 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+11:51:26.220 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+11:51:26.225 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+11:51:26.226 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+11:51:26.226 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+11:51:26.226 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+11:51:26.226 [main] INFO  com.solvd.bookstore.BookStore - 
+11:51:26.226 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+11:51:26.227 [main] INFO  com.solvd.bookstore.BookStore - 
+11:51:26.227 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+11:51:26.227 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+11:51:26.227 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+13:10:05.886 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+13:10:05.888 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+13:10:05.888 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+13:10:05.888 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+13:10:05.894 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+13:10:05.894 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+13:10:05.894 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+13:10:05.895 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+13:10:05.895 [main] INFO  com.solvd.bookstore.BookStore - 
+13:10:05.895 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+13:10:05.895 [main] INFO  com.solvd.bookstore.BookStore - 
+13:10:05.895 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+13:10:05.895 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+13:10:05.896 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+13:15:14.601 [main] INFO  com.solvd.bookstore.BookStore - test
+13:15:14.604 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+13:15:14.604 [main] INFO  com.solvd.bookstore.BookStore - test
+13:15:14.604 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+13:15:14.604 [main] INFO  com.solvd.bookstore.BookStore - test
+13:15:14.604 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+13:15:14.604 [main] INFO  com.solvd.bookstore.BookStore - test
+13:15:14.605 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+13:15:14.605 [main] INFO  com.solvd.bookstore.BookStore - test
+13:15:14.610 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+13:15:14.610 [main] INFO  com.solvd.bookstore.BookStore - test
+13:15:14.611 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+13:15:14.611 [main] INFO  com.solvd.bookstore.BookStore - test
+13:15:14.611 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+13:15:14.611 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+13:15:14.611 [main] INFO  com.solvd.bookstore.BookStore - 
+13:15:14.611 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+13:15:14.611 [main] INFO  com.solvd.bookstore.BookStore - 
+13:15:14.611 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+13:15:14.611 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+13:15:14.611 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+13:17:25.886 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+13:17:25.888 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+13:17:25.888 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+13:17:25.889 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+13:17:25.895 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+13:17:25.895 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+13:17:25.895 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+13:17:25.896 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+13:17:25.896 [main] INFO  com.solvd.bookstore.BookStore - 
+13:17:25.896 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+13:17:25.896 [main] INFO  com.solvd.bookstore.BookStore - 
+13:17:25.896 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+13:17:25.896 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+13:17:25.896 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+14:15:24.818 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+14:15:24.820 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+14:15:24.820 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+14:15:24.820 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+14:15:24.826 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+14:15:24.826 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+14:15:24.826 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+14:15:24.829 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+14:15:24.830 [main] INFO  com.solvd.bookstore.BookStore - 
+14:15:24.830 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+14:15:24.830 [main] INFO  com.solvd.bookstore.BookStore - 
+14:15:24.830 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+14:15:24.830 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+14:15:24.830 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+14:17:37.897 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+14:17:37.899 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+14:17:37.899 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+14:17:37.899 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+14:17:37.906 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+14:17:37.906 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+14:17:37.906 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+14:17:37.907 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+14:17:37.907 [main] INFO  com.solvd.bookstore.BookStore - 
+14:17:37.907 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+14:17:37.907 [main] INFO  com.solvd.bookstore.BookStore - 
+14:17:37.907 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+14:17:37.907 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+14:17:37.907 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+14:20:51.695 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+14:20:51.697 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+14:20:51.697 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+14:20:51.697 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+14:20:51.703 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+14:20:51.703 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+14:20:51.703 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+14:20:51.704 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+14:20:51.704 [main] INFO  com.solvd.bookstore.BookStore - 
+14:20:51.704 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+14:20:51.704 [main] INFO  com.solvd.bookstore.BookStore - 
+14:20:51.704 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+14:20:51.705 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+14:20:51.705 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+14:25:07.465 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+14:25:07.467 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+14:25:07.467 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+14:25:07.467 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+14:25:07.473 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+14:25:07.474 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+14:25:07.474 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+14:25:07.474 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+14:25:07.474 [main] INFO  com.solvd.bookstore.BookStore - 
+14:25:07.475 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+14:25:07.475 [main] INFO  com.solvd.bookstore.BookStore - 
+14:25:07.475 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+14:25:07.475 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+14:25:07.475 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+11:25:31.760 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+11:25:31.762 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+11:25:31.763 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+11:25:31.763 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+11:25:31.769 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+11:25:31.770 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+11:25:31.770 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+11:25:31.770 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+11:25:31.771 [main] INFO  com.solvd.bookstore.BookStore - 
+11:25:31.771 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+11:25:31.771 [main] INFO  com.solvd.bookstore.BookStore - 
+11:25:31.771 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+11:25:31.771 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+11:25:31.771 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+11:29:48.227 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+11:29:48.229 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+11:29:48.229 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+11:29:48.229 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+11:29:48.235 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+11:29:48.235 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+11:29:48.235 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+11:29:48.236 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+11:29:48.236 [main] INFO  com.solvd.bookstore.BookStore - 
+11:29:48.236 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+11:29:48.236 [main] INFO  com.solvd.bookstore.BookStore - 
+11:29:48.236 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+11:29:48.236 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+11:29:48.237 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+11:30:20.121 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+11:30:20.124 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+11:30:20.124 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+11:30:20.124 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+11:30:20.130 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+11:30:20.130 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+11:30:20.130 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+11:30:20.131 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+11:30:20.131 [main] INFO  com.solvd.bookstore.BookStore - 
+11:30:20.131 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+11:30:20.131 [main] INFO  com.solvd.bookstore.BookStore - 
+11:30:20.131 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+11:30:20.131 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+11:30:20.131 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+11:30:34.555 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+11:30:34.558 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+11:30:34.558 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+11:30:34.558 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+11:30:34.565 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+11:30:34.565 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+11:30:34.565 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+11:30:34.566 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+11:30:34.566 [main] INFO  com.solvd.bookstore.BookStore - 
+11:30:34.566 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+11:30:34.569 [main] INFO  com.solvd.bookstore.BookStore - 
+11:30:34.569 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+11:30:34.569 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+11:30:34.570 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+11:32:08.617 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+11:32:08.619 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+11:32:08.619 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+11:32:08.619 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+11:32:08.625 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+11:32:08.625 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+11:32:08.625 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+11:32:08.625 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+11:32:08.625 [main] INFO  com.solvd.bookstore.BookStore - 
+11:32:08.626 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+11:32:08.626 [main] INFO  com.solvd.bookstore.BookStore - 
+11:32:08.626 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+11:32:08.626 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+11:32:08.626 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+11:59:13.225 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+11:59:13.227 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+11:59:13.227 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+11:59:13.227 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+11:59:13.236 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+11:59:13.236 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+11:59:13.236 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+11:59:13.237 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+11:59:13.237 [main] INFO  com.solvd.bookstore.BookStore - 
+11:59:13.237 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+11:59:13.237 [main] INFO  com.solvd.bookstore.BookStore - 
+11:59:13.237 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+11:59:13.237 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+11:59:13.238 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+11:59:36.609 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+11:59:36.611 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+11:59:36.611 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+11:59:36.611 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+11:59:36.617 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+11:59:36.617 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+11:59:36.617 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+11:59:36.617 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+11:59:36.618 [main] INFO  com.solvd.bookstore.BookStore - 
+11:59:36.618 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+11:59:36.618 [main] INFO  com.solvd.bookstore.BookStore - 
+11:59:36.618 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+11:59:36.618 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+11:59:36.618 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+12:00:09.514 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+12:00:09.516 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+12:00:09.516 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+12:00:09.516 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+12:00:09.522 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+12:00:09.522 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+12:00:09.522 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+12:00:09.523 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+12:00:09.523 [main] INFO  com.solvd.bookstore.BookStore - 
+12:00:09.523 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+12:00:09.523 [main] INFO  com.solvd.bookstore.BookStore - 
+12:00:09.523 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+12:00:09.523 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+12:00:09.523 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+12:11:18.199 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+12:11:18.201 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+12:11:18.201 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+12:11:18.202 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+12:11:18.207 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+12:11:18.208 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+12:11:18.208 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+12:11:18.208 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+12:11:18.208 [main] INFO  com.solvd.bookstore.BookStore - 
+12:11:18.208 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+12:11:18.208 [main] INFO  com.solvd.bookstore.BookStore - 
+12:11:18.209 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+12:11:18.209 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+12:11:18.209 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+12:11:55.164 [main] INFO  com.solvd.bookstore.BookStore - Do you want to login or sign up?
+12:11:55.164 [main] INFO  com.solvd.bookstore.BookStore - 1. Login
+12:11:55.164 [main] INFO  com.solvd.bookstore.BookStore - 2. Sign up
+12:11:56.723 [main] INFO  com.solvd.bookstore.BookStore - What is your username
+12:12:01.700 [main] INFO  com.solvd.bookstore.BookStore - What is your password
+12:12:02.659 [main] INFO  com.solvd.bookstore.BookStore - 
+12:12:02.659 [main] INFO  com.solvd.bookstore.BookStore - 
+12:12:02.660 [main] INFO  com.solvd.bookstore.BookStore - Welcome customer to the Customer Menu
+12:12:02.660 [main] INFO  com.solvd.bookstore.BookStore - What do you want to do?
+12:12:02.660 [main] INFO  com.solvd.bookstore.BookStore - 1. Search for book by keyword
+12:12:02.660 [main] INFO  com.solvd.bookstore.BookStore - 2. Show all books available
+12:12:02.660 [main] INFO  com.solvd.bookstore.BookStore - 3. Show all books in the cart
+12:12:02.660 [main] INFO  com.solvd.bookstore.BookStore - 4. Show book by category
+12:12:02.660 [main] INFO  com.solvd.bookstore.BookStore - 5. Add book to cart
+12:12:02.661 [main] INFO  com.solvd.bookstore.BookStore - 6. Checkout
+12:12:02.661 [main] INFO  com.solvd.bookstore.BookStore - 7. Change Username
+12:12:02.661 [main] INFO  com.solvd.bookstore.BookStore - 8. Change Password
+12:12:06.951 [main] INFO  com.solvd.bookstore.BookStore - What is the ISBN of the book?
+12:12:32.470 [main] ERROR com.solvd.bookstore.BookStore - The isbn for the book you have provided is not in our inventory
+12:12:32.471 [main] ERROR com.solvd.bookstore.BookStore - Going back to the Main menu ...
+12:12:32.471 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+12:12:32.471 [main] INFO  com.solvd.bookstore.BookStore - 
+12:12:32.471 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+12:12:32.471 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+12:12:32.471 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+12:13:21.867 [main] INFO  com.solvd.bookstore.BookStore - Do you want to login or sign up?
+12:13:21.867 [main] INFO  com.solvd.bookstore.BookStore - 1. Login
+12:13:21.867 [main] INFO  com.solvd.bookstore.BookStore - 2. Sign up
+12:13:23.111 [main] INFO  com.solvd.bookstore.BookStore - What is your username
+12:13:25.914 [main] INFO  com.solvd.bookstore.BookStore - What is your password
+12:13:27.550 [main] INFO  com.solvd.bookstore.BookStore - 
+12:13:27.550 [main] INFO  com.solvd.bookstore.BookStore - 
+12:13:27.550 [main] INFO  com.solvd.bookstore.BookStore - Welcome customer to the Customer Menu
+12:13:27.551 [main] INFO  com.solvd.bookstore.BookStore - What do you want to do?
+12:13:27.551 [main] INFO  com.solvd.bookstore.BookStore - 1. Search for book by keyword
+12:13:27.551 [main] INFO  com.solvd.bookstore.BookStore - 2. Show all books available
+12:13:27.551 [main] INFO  com.solvd.bookstore.BookStore - 3. Show all books in the cart
+12:13:27.551 [main] INFO  com.solvd.bookstore.BookStore - 4. Show book by category
+12:13:27.551 [main] INFO  com.solvd.bookstore.BookStore - 5. Add book to cart
+12:13:27.551 [main] INFO  com.solvd.bookstore.BookStore - 6. Checkout
+12:13:27.551 [main] INFO  com.solvd.bookstore.BookStore - 7. Change Username
+12:13:27.551 [main] INFO  com.solvd.bookstore.BookStore - 8. Change Password
+12:13:33.462 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+12:13:33.462 [main] INFO  com.solvd.bookstore.BookStore - 
+12:13:33.462 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+12:13:33.462 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+12:13:33.463 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+12:15:02.415 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+12:15:02.418 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+12:15:02.418 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+12:15:02.418 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+12:15:02.423 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+12:15:02.423 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+12:15:02.424 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+12:15:02.424 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+12:15:02.424 [main] INFO  com.solvd.bookstore.BookStore - 
+12:15:02.424 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+12:15:02.424 [main] INFO  com.solvd.bookstore.BookStore - 
+12:15:02.424 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+12:15:02.424 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+12:15:02.425 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+12:15:05.848 [main] INFO  com.solvd.bookstore.BookStore - Do you want to login or sign up?
+12:15:05.849 [main] INFO  com.solvd.bookstore.BookStore - 1. Login
+12:15:05.849 [main] INFO  com.solvd.bookstore.BookStore - 2. Sign up
+12:15:08.286 [main] INFO  com.solvd.bookstore.BookStore - What is your username
+12:15:10.538 [main] INFO  com.solvd.bookstore.BookStore - What is your password
+12:15:11.585 [main] INFO  com.solvd.bookstore.BookStore - 
+12:15:11.585 [main] INFO  com.solvd.bookstore.BookStore - 
+12:15:11.586 [main] INFO  com.solvd.bookstore.BookStore - Welcome customer to the Customer Menu
+12:15:11.586 [main] INFO  com.solvd.bookstore.BookStore - What do you want to do?
+12:15:11.587 [main] INFO  com.solvd.bookstore.BookStore - 1. Search for book by keyword
+12:15:11.587 [main] INFO  com.solvd.bookstore.BookStore - 2. Show all books available
+12:15:11.587 [main] INFO  com.solvd.bookstore.BookStore - 3. Show all books in the cart
+12:15:11.587 [main] INFO  com.solvd.bookstore.BookStore - 4. Show book by category
+12:15:11.587 [main] INFO  com.solvd.bookstore.BookStore - 5. Add book to cart
+12:15:11.587 [main] INFO  com.solvd.bookstore.BookStore - 6. Checkout
+12:15:11.587 [main] INFO  com.solvd.bookstore.BookStore - 7. Change Username
+12:15:11.587 [main] INFO  com.solvd.bookstore.BookStore - 8. Change Password
+12:15:16.056 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+12:15:16.057 [main] INFO  com.solvd.bookstore.BookStore - 
+12:15:16.057 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+12:15:16.057 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+12:15:16.057 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+12:16:02.810 [main] INFO  com.solvd.bookstore.BookStore - Do you want to login or sign up?
+12:16:02.810 [main] INFO  com.solvd.bookstore.BookStore - 1. Login
+12:16:02.810 [main] INFO  com.solvd.bookstore.BookStore - 2. Sign up
+12:16:04.268 [main] INFO  com.solvd.bookstore.BookStore - What is your username
+12:16:06.882 [main] INFO  com.solvd.bookstore.BookStore - What is your password
+12:16:08.784 [main] INFO  com.solvd.bookstore.BookStore - 
+12:16:08.784 [main] INFO  com.solvd.bookstore.BookStore - 
+12:16:08.785 [main] INFO  com.solvd.bookstore.BookStore - Welcome customer to the Customer Menu
+12:16:08.785 [main] INFO  com.solvd.bookstore.BookStore - What do you want to do?
+12:16:08.785 [main] INFO  com.solvd.bookstore.BookStore - 1. Search for book by keyword
+12:16:08.785 [main] INFO  com.solvd.bookstore.BookStore - 2. Show all books available
+12:16:08.785 [main] INFO  com.solvd.bookstore.BookStore - 3. Show all books in the cart
+12:16:08.785 [main] INFO  com.solvd.bookstore.BookStore - 4. Show book by category
+12:16:08.785 [main] INFO  com.solvd.bookstore.BookStore - 5. Add book to cart
+12:16:08.785 [main] INFO  com.solvd.bookstore.BookStore - 6. Checkout
+12:16:08.785 [main] INFO  com.solvd.bookstore.BookStore - 7. Change Username
+12:16:08.785 [main] INFO  com.solvd.bookstore.BookStore - 8. Change Password
+12:16:12.828 [main] INFO  com.solvd.bookstore.BookStore - What is the ISBN of the book?
+12:16:15.343 [main] ERROR com.solvd.bookstore.BookStore - The isbn for the book you have provided is not in our inventory
+12:16:15.343 [main] ERROR com.solvd.bookstore.BookStore - Going back to the Main menu ...
+12:16:15.343 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+12:16:15.343 [main] INFO  com.solvd.bookstore.BookStore - 
+12:16:15.343 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+12:16:15.343 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+12:16:15.343 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+12:16:49.382 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+12:16:49.384 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+12:16:49.384 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+12:16:49.384 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+12:16:49.390 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+12:16:49.390 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+12:16:49.390 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+12:16:49.391 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+12:16:49.391 [main] INFO  com.solvd.bookstore.BookStore - 
+12:16:49.391 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+12:16:49.391 [main] INFO  com.solvd.bookstore.BookStore - 
+12:16:49.391 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+12:16:49.391 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+12:16:49.391 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+12:16:52.858 [main] INFO  com.solvd.bookstore.BookStore - Do you want to login or sign up?
+12:16:52.859 [main] INFO  com.solvd.bookstore.BookStore - 1. Login
+12:16:52.859 [main] INFO  com.solvd.bookstore.BookStore - 2. Sign up
+12:16:53.762 [main] INFO  com.solvd.bookstore.BookStore - What is your username
+12:16:55.979 [main] INFO  com.solvd.bookstore.BookStore - What is your password
+12:16:57.054 [main] INFO  com.solvd.bookstore.BookStore - 
+12:16:57.054 [main] INFO  com.solvd.bookstore.BookStore - 
+12:16:57.055 [main] INFO  com.solvd.bookstore.BookStore - Welcome customer to the Customer Menu
+12:16:57.055 [main] INFO  com.solvd.bookstore.BookStore - What do you want to do?
+12:16:57.055 [main] INFO  com.solvd.bookstore.BookStore - 1. Search for book by keyword
+12:16:57.056 [main] INFO  com.solvd.bookstore.BookStore - 2. Show all books available
+12:16:57.056 [main] INFO  com.solvd.bookstore.BookStore - 3. Show all books in the cart
+12:16:57.056 [main] INFO  com.solvd.bookstore.BookStore - 4. Show book by category
+12:16:57.056 [main] INFO  com.solvd.bookstore.BookStore - 5. Add book to cart
+12:16:57.056 [main] INFO  com.solvd.bookstore.BookStore - 6. Checkout
+12:16:57.056 [main] INFO  com.solvd.bookstore.BookStore - 7. Change Username
+12:16:57.056 [main] INFO  com.solvd.bookstore.BookStore - 8. Change Password
+12:17:01.179 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+12:17:01.179 [main] INFO  com.solvd.bookstore.BookStore - 
+12:17:01.179 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+12:17:01.179 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+12:17:01.180 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+12:17:10.457 [main] INFO  com.solvd.bookstore.BookStore - Do you want to login or sign up?
+12:17:10.457 [main] INFO  com.solvd.bookstore.BookStore - 1. Login
+12:17:10.458 [main] INFO  com.solvd.bookstore.BookStore - 2. Sign up
+12:17:12.046 [main] INFO  com.solvd.bookstore.BookStore - What is your username
+12:17:14.591 [main] INFO  com.solvd.bookstore.BookStore - What is your password
+12:17:16.129 [main] INFO  com.solvd.bookstore.BookStore - 
+12:17:16.130 [main] INFO  com.solvd.bookstore.BookStore - 
+12:17:16.130 [main] INFO  com.solvd.bookstore.BookStore - Welcome customer to the Customer Menu
+12:17:16.130 [main] INFO  com.solvd.bookstore.BookStore - What do you want to do?
+12:17:16.130 [main] INFO  com.solvd.bookstore.BookStore - 1. Search for book by keyword
+12:17:16.131 [main] INFO  com.solvd.bookstore.BookStore - 2. Show all books available
+12:17:16.131 [main] INFO  com.solvd.bookstore.BookStore - 3. Show all books in the cart
+12:17:16.131 [main] INFO  com.solvd.bookstore.BookStore - 4. Show book by category
+12:17:16.131 [main] INFO  com.solvd.bookstore.BookStore - 5. Add book to cart
+12:17:16.131 [main] INFO  com.solvd.bookstore.BookStore - 6. Checkout
+12:17:16.131 [main] INFO  com.solvd.bookstore.BookStore - 7. Change Username
+12:17:16.131 [main] INFO  com.solvd.bookstore.BookStore - 8. Change Password
+12:17:18.493 [main] INFO  com.solvd.bookstore.BookStore - What is the ISBN of the book?
+12:17:21.686 [main] ERROR com.solvd.bookstore.BookStore - The isbn for the book you have provided is not in our inventory
+12:17:21.686 [main] ERROR com.solvd.bookstore.BookStore - Going back to the Main menu ...
+12:17:21.687 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+12:17:21.687 [main] INFO  com.solvd.bookstore.BookStore - 
+12:17:21.687 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+12:17:21.687 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+12:17:21.687 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+13:55:46.906 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+13:55:46.908 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+13:55:46.909 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+13:55:46.909 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+13:55:46.914 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+13:55:46.914 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+13:55:46.915 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+13:55:46.918 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+13:55:46.918 [main] INFO  com.solvd.bookstore.BookStore - 
+13:55:46.918 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+13:55:46.918 [main] INFO  com.solvd.bookstore.BookStore - 
+13:55:46.918 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+13:55:46.918 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+13:55:46.918 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+13:57:37.793 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+13:57:37.795 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+13:57:37.795 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+13:57:37.795 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+13:57:37.801 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+13:57:37.801 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+13:57:37.801 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+13:57:37.805 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+13:57:37.805 [main] INFO  com.solvd.bookstore.BookStore - 
+13:57:37.805 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+13:57:37.805 [main] INFO  com.solvd.bookstore.BookStore - 
+13:57:37.805 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+13:57:37.805 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+13:57:37.805 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+13:57:41.856 [main] INFO  com.solvd.bookstore.BookStore - Do you want to login or sign up?
+13:57:41.856 [main] INFO  com.solvd.bookstore.BookStore - 1. Login
+13:57:41.856 [main] INFO  com.solvd.bookstore.BookStore - 2. Sign up
+13:57:43.390 [main] INFO  com.solvd.bookstore.BookStore - What is your username
+13:57:45.684 [main] INFO  com.solvd.bookstore.BookStore - What is your password
+13:57:47.660 [main] INFO  com.solvd.bookstore.BookStore - 
+13:57:47.660 [main] INFO  com.solvd.bookstore.BookStore - 
+13:57:47.660 [main] INFO  com.solvd.bookstore.BookStore - Welcome customer to the Customer Menu
+13:57:47.661 [main] INFO  com.solvd.bookstore.BookStore - Choose an option.
+13:57:47.661 [main] INFO  com.solvd.bookstore.BookStore - 1. Search for book by keyword
+13:57:47.661 [main] INFO  com.solvd.bookstore.BookStore - 2. Show all books available
+13:57:47.661 [main] INFO  com.solvd.bookstore.BookStore - 3. Show all books in the cart
+13:57:47.661 [main] INFO  com.solvd.bookstore.BookStore - 4. Show book by category
+13:57:47.661 [main] INFO  com.solvd.bookstore.BookStore - 5. Add book to cart
+13:57:47.661 [main] INFO  com.solvd.bookstore.BookStore - 6. Checkout
+13:57:47.661 [main] INFO  com.solvd.bookstore.BookStore - 7. Change Username
+13:57:47.661 [main] INFO  com.solvd.bookstore.BookStore - 8. Change Password
+13:57:52.744 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+13:57:52.745 [main] INFO  com.solvd.bookstore.BookStore - 
+13:57:52.745 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+13:57:52.745 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+13:57:52.745 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+13:58:39.245 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+13:58:39.247 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+13:58:39.247 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+13:58:39.247 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+13:58:39.253 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+13:58:39.254 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+13:58:39.254 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+13:58:39.254 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+13:58:39.254 [main] INFO  com.solvd.bookstore.BookStore - 
+13:58:39.255 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+13:58:39.255 [main] INFO  com.solvd.bookstore.BookStore - 
+13:58:39.255 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+13:58:39.255 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+13:58:39.255 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+13:58:42.285 [main] INFO  com.solvd.bookstore.BookStore - Do you want to login or sign up?
+13:58:42.285 [main] INFO  com.solvd.bookstore.BookStore - 1. Login
+13:58:42.285 [main] INFO  com.solvd.bookstore.BookStore - 2. Sign up
+13:58:43.294 [main] INFO  com.solvd.bookstore.BookStore - What is your username
+13:58:45.548 [main] INFO  com.solvd.bookstore.BookStore - What is your password
+13:58:49.407 [main] INFO  com.solvd.bookstore.BookStore - 
+13:58:49.407 [main] INFO  com.solvd.bookstore.BookStore - 
+13:58:49.408 [main] INFO  com.solvd.bookstore.BookStore - Welcome customer to the Customer Menu
+13:58:49.408 [main] INFO  com.solvd.bookstore.BookStore - Choose an option.
+13:58:49.408 [main] INFO  com.solvd.bookstore.BookStore - 1. Search for book by keyword
+13:58:49.408 [main] INFO  com.solvd.bookstore.BookStore - 2. Show all books available
+13:58:49.408 [main] INFO  com.solvd.bookstore.BookStore - 3. Show all books in the cart
+13:58:49.409 [main] INFO  com.solvd.bookstore.BookStore - 4. Show book by category
+13:58:49.409 [main] INFO  com.solvd.bookstore.BookStore - 5. Add book to cart
+13:58:49.409 [main] INFO  com.solvd.bookstore.BookStore - 6. Checkout
+13:58:49.409 [main] INFO  com.solvd.bookstore.BookStore - 7. Change Username
+13:58:49.409 [main] INFO  com.solvd.bookstore.BookStore - 8. Change Password
+13:59:01.498 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+13:59:01.498 [main] INFO  com.solvd.bookstore.BookStore - 
+13:59:01.498 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+13:59:01.498 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+13:59:01.498 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+14:27:55.068 [main] INFO  com.solvd.bookstore.BookStore - You are in the admin login menu
+14:27:55.068 [main] INFO  com.solvd.bookstore.BookStore - Type in 0 as your username to go to the main menu!
+14:27:55.068 [main] INFO  com.solvd.bookstore.BookStore - What is your username?
+14:27:58.181 [main] INFO  com.solvd.bookstore.BookStore - What is your password?
+14:28:00.291 [main] INFO  com.solvd.bookstore.BookStore - Welcome admin to the Admin Menu
+14:28:00.291 [main] INFO  com.solvd.bookstore.BookStore - What do you want to do?
+14:28:00.291 [main] INFO  com.solvd.bookstore.BookStore - 1. Add a new book
+14:28:00.292 [main] INFO  com.solvd.bookstore.BookStore - 2. Delete a book
+14:28:00.292 [main] INFO  com.solvd.bookstore.BookStore - 3. Show all the books
+14:28:00.292 [main] INFO  com.solvd.bookstore.BookStore - 4. Show all the orders
+14:28:00.292 [main] INFO  com.solvd.bookstore.BookStore - 5. Change Username
+14:28:00.292 [main] INFO  com.solvd.bookstore.BookStore - 6. Change Password
+14:29:01.553 [main] INFO  com.solvd.bookstore.BookStore - The book with the title title of book has been added to the inventory
+14:29:01.554 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+14:29:01.554 [main] INFO  com.solvd.bookstore.BookStore - 
+14:29:01.554 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+14:29:01.554 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+14:29:01.554 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+14:29:16.844 [main] INFO  com.solvd.bookstore.BookStore - Do you want to login or sign up?
+14:29:16.844 [main] INFO  com.solvd.bookstore.BookStore - 1. Login
+14:29:16.845 [main] INFO  com.solvd.bookstore.BookStore - 2. Sign up
+14:29:18.094 [main] INFO  com.solvd.bookstore.BookStore - What is your username
+14:29:21.573 [main] INFO  com.solvd.bookstore.BookStore - What is your password
+14:29:22.870 [main] INFO  com.solvd.bookstore.BookStore - 
+14:29:22.871 [main] INFO  com.solvd.bookstore.BookStore - 
+14:29:22.871 [main] INFO  com.solvd.bookstore.BookStore - Welcome customer to the Customer Menu
+14:29:22.871 [main] INFO  com.solvd.bookstore.BookStore - Choose an option.
+14:29:22.871 [main] INFO  com.solvd.bookstore.BookStore - 1. Search for book by keyword
+14:29:22.871 [main] INFO  com.solvd.bookstore.BookStore - 2. Show all books available
+14:29:22.872 [main] INFO  com.solvd.bookstore.BookStore - 3. Show all books in the cart
+14:29:22.872 [main] INFO  com.solvd.bookstore.BookStore - 4. Show book by category
+14:29:22.872 [main] INFO  com.solvd.bookstore.BookStore - 5. Add book to cart
+14:29:22.872 [main] INFO  com.solvd.bookstore.BookStore - 6. Checkout
+14:29:22.872 [main] INFO  com.solvd.bookstore.BookStore - 7. Change Username
+14:29:22.872 [main] INFO  com.solvd.bookstore.BookStore - 8. Change Password
+14:29:26.723 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+14:29:26.723 [main] INFO  com.solvd.bookstore.BookStore - 
+14:29:26.723 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+14:29:26.723 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+14:29:26.723 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+14:29:42.440 [main] INFO  com.solvd.bookstore.BookStore - Do you want to login or sign up?
+14:29:42.440 [main] INFO  com.solvd.bookstore.BookStore - 1. Login
+14:29:42.440 [main] INFO  com.solvd.bookstore.BookStore - 2. Sign up
+14:29:43.575 [main] INFO  com.solvd.bookstore.BookStore - What is your username
+14:29:47.498 [main] INFO  com.solvd.bookstore.BookStore - What is your password
+14:29:48.751 [main] INFO  com.solvd.bookstore.BookStore - 
+14:29:48.751 [main] INFO  com.solvd.bookstore.BookStore - 
+14:29:48.751 [main] INFO  com.solvd.bookstore.BookStore - Welcome customer to the Customer Menu
+14:29:48.751 [main] INFO  com.solvd.bookstore.BookStore - Choose an option.
+14:29:48.751 [main] INFO  com.solvd.bookstore.BookStore - 1. Search for book by keyword
+14:29:48.751 [main] INFO  com.solvd.bookstore.BookStore - 2. Show all books available
+14:29:48.751 [main] INFO  com.solvd.bookstore.BookStore - 3. Show all books in the cart
+14:29:48.751 [main] INFO  com.solvd.bookstore.BookStore - 4. Show book by category
+14:29:48.752 [main] INFO  com.solvd.bookstore.BookStore - 5. Add book to cart
+14:29:48.752 [main] INFO  com.solvd.bookstore.BookStore - 6. Checkout
+14:29:48.752 [main] INFO  com.solvd.bookstore.BookStore - 7. Change Username
+14:29:48.752 [main] INFO  com.solvd.bookstore.BookStore - 8. Change Password
+14:29:51.452 [main] INFO  com.solvd.bookstore.BookStore - What is the ISBN of the book?
+14:29:53.864 [main] ERROR com.solvd.bookstore.BookStore - title of book was added to your cart!
+14:29:53.864 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+14:29:53.864 [main] INFO  com.solvd.bookstore.BookStore - 
+14:29:53.864 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+14:29:53.864 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+14:29:53.864 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+14:30:01.066 [main] INFO  com.solvd.bookstore.BookStore - Do you want to login or sign up?
+14:30:01.066 [main] INFO  com.solvd.bookstore.BookStore - 1. Login
+14:30:01.066 [main] INFO  com.solvd.bookstore.BookStore - 2. Sign up
+14:30:03.957 [main] INFO  com.solvd.bookstore.BookStore - What is your username
+14:30:06.736 [main] INFO  com.solvd.bookstore.BookStore - What is your password
+14:30:08.139 [main] INFO  com.solvd.bookstore.BookStore - 
+14:30:08.139 [main] INFO  com.solvd.bookstore.BookStore - 
+14:30:08.140 [main] INFO  com.solvd.bookstore.BookStore - Welcome customer to the Customer Menu
+14:30:08.140 [main] INFO  com.solvd.bookstore.BookStore - Choose an option.
+14:30:08.140 [main] INFO  com.solvd.bookstore.BookStore - 1. Search for book by keyword
+14:30:08.140 [main] INFO  com.solvd.bookstore.BookStore - 2. Show all books available
+14:30:08.140 [main] INFO  com.solvd.bookstore.BookStore - 3. Show all books in the cart
+14:30:08.140 [main] INFO  com.solvd.bookstore.BookStore - 4. Show book by category
+14:30:08.140 [main] INFO  com.solvd.bookstore.BookStore - 5. Add book to cart
+14:30:08.140 [main] INFO  com.solvd.bookstore.BookStore - 6. Checkout
+14:30:08.140 [main] INFO  com.solvd.bookstore.BookStore - 7. Change Username
+14:30:08.140 [main] INFO  com.solvd.bookstore.BookStore - 8. Change Password
+14:30:13.534 [main] INFO  com.solvd.bookstore.BookStore - Subtotal $22.0
+14:30:13.534 [main] INFO  com.solvd.bookstore.BookStore - Are you sure you want to continue?
+14:30:19.361 [main] INFO  com.solvd.bookstore.BookStore - What shipping method do you prefer?
+14:30:19.363 [main] INFO  com.solvd.bookstore.BookStore - 1. Express shipping($10.0)
+14:30:19.363 [main] INFO  com.solvd.bookstore.BookStore - 2. Standard shipping($10.0)
+14:30:22.910 [main] INFO  com.solvd.bookstore.BookStore - Do you have a coupon code?
+14:30:44.868 [main] INFO  com.solvd.bookstore.BookStore - What method do you want to use?
+14:30:44.868 [main] INFO  com.solvd.bookstore.BookStore - 1. Credit Card
+14:30:44.868 [main] INFO  com.solvd.bookstore.BookStore - 2. Paypal
+14:30:50.071 [main] INFO  com.solvd.bookstore.BookStore - What is your card number
+14:30:54.014 [main] INFO  com.solvd.bookstore.BookStore - What is your expiration date?
+14:30:59.004 [main] ERROR com.solvd.bookstore.BookStore - An error occurred: Text '02/02' could not be parsed at index 0
+14:30:59.004 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+14:30:59.004 [main] INFO  com.solvd.bookstore.BookStore - 
+14:30:59.004 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+14:30:59.004 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+14:30:59.004 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+14:40:45.983 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+14:40:45.985 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+14:40:45.986 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+14:40:45.986 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+14:40:45.992 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+14:40:45.992 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+14:40:45.992 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+14:40:45.992 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+14:40:45.993 [main] INFO  com.solvd.bookstore.BookStore - 
+14:40:45.993 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+14:40:45.993 [main] INFO  com.solvd.bookstore.BookStore - 
+14:40:45.993 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+14:40:45.993 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+14:40:45.993 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+14:52:55.821 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+14:52:55.823 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+14:52:55.824 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+14:52:55.824 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+14:52:55.829 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+14:52:55.830 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+14:52:55.830 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+14:52:55.833 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+14:52:55.834 [main] INFO  com.solvd.bookstore.BookStore - 
+14:52:55.834 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+14:52:55.834 [main] INFO  com.solvd.bookstore.BookStore - 
+14:52:55.834 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+14:52:55.834 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+14:52:55.834 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+14:53:50.498 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+14:53:50.500 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+14:53:50.501 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+14:53:50.501 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+14:53:50.507 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+14:53:50.507 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+14:53:50.507 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+14:53:50.507 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+14:53:50.508 [main] INFO  com.solvd.bookstore.BookStore - 
+14:53:50.508 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+14:53:50.508 [main] INFO  com.solvd.bookstore.BookStore - 
+14:53:50.508 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+14:53:50.508 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+14:53:50.508 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+14:54:06.633 [main] INFO  com.solvd.bookstore.BookStore - You are in the admin login menu
+14:54:06.634 [main] INFO  com.solvd.bookstore.BookStore - Type in 0 as your username to go to the main menu!
+14:54:06.634 [main] INFO  com.solvd.bookstore.BookStore - What is your username?
+14:54:11.143 [main] INFO  com.solvd.bookstore.BookStore - What is your password?
+14:54:13.737 [main] INFO  com.solvd.bookstore.BookStore - Welcome admin to the Admin Menu
+14:54:13.738 [main] INFO  com.solvd.bookstore.BookStore - What do you want to do?
+14:54:13.738 [main] INFO  com.solvd.bookstore.BookStore - 1. Add a new book
+14:54:13.738 [main] INFO  com.solvd.bookstore.BookStore - 2. Delete a book
+14:54:13.738 [main] INFO  com.solvd.bookstore.BookStore - 3. Show all the books
+14:54:13.738 [main] INFO  com.solvd.bookstore.BookStore - 4. Show all the orders
+14:54:13.738 [main] INFO  com.solvd.bookstore.BookStore - 5. Change Username
+14:54:13.739 [main] INFO  com.solvd.bookstore.BookStore - 6. Change Password
+14:54:16.457 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+14:54:16.457 [main] INFO  com.solvd.bookstore.BookStore - 
+14:54:16.457 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+14:54:16.457 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+14:54:16.457 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+14:56:05.422 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+14:56:05.424 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+14:56:05.424 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+14:56:05.424 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+14:56:05.434 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+14:56:05.434 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+14:56:05.434 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+14:56:05.434 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+14:56:05.435 [main] INFO  com.solvd.bookstore.BookStore - 
+14:56:05.435 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+14:56:05.435 [main] INFO  com.solvd.bookstore.BookStore - 
+14:56:05.435 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+14:56:05.435 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+14:56:05.435 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+14:56:08.782 [main] INFO  com.solvd.bookstore.BookStore - You are in the admin login menu
+14:56:08.782 [main] INFO  com.solvd.bookstore.BookStore - Type in 0 as your username to go to the main menu!
+14:56:08.782 [main] INFO  com.solvd.bookstore.BookStore - What is your username?
+14:56:11.900 [main] INFO  com.solvd.bookstore.BookStore - What is your password?
+14:56:13.766 [main] INFO  com.solvd.bookstore.BookStore - Welcome admin to the Admin Menu
+14:56:13.767 [main] INFO  com.solvd.bookstore.BookStore - What do you want to do?
+14:56:13.767 [main] INFO  com.solvd.bookstore.BookStore - 1. Add a new book
+14:56:13.767 [main] INFO  com.solvd.bookstore.BookStore - 2. Delete a book
+14:56:13.767 [main] INFO  com.solvd.bookstore.BookStore - 3. Show all the books
+14:56:13.767 [main] INFO  com.solvd.bookstore.BookStore - 4. Show all the orders
+14:56:13.767 [main] INFO  com.solvd.bookstore.BookStore - 5. Change Username
+14:56:13.768 [main] INFO  com.solvd.bookstore.BookStore - 6. Change Password
+14:56:16.251 [main] ERROR com.solvd.bookstore.BookStore - An error occurred: Cannot invoke "java.util.ArrayList.forEach(java.util.function.Consumer)" because the return value of "com.solvd.bookstore.data.BooksData.getBooks()" is null
+14:59:25.897 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+14:59:25.900 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+14:59:25.900 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+14:59:25.901 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+14:59:25.907 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+14:59:25.907 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+14:59:25.907 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+14:59:25.908 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+14:59:25.908 [main] INFO  com.solvd.bookstore.BookStore - 
+14:59:25.908 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+14:59:25.908 [main] INFO  com.solvd.bookstore.BookStore - 
+14:59:25.908 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+14:59:25.908 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+14:59:25.908 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+14:59:34.954 [main] INFO  com.solvd.bookstore.BookStore - Do you want to login or sign up?
+14:59:34.954 [main] INFO  com.solvd.bookstore.BookStore - 1. Login
+14:59:34.954 [main] INFO  com.solvd.bookstore.BookStore - 2. Sign up
+14:59:36.085 [main] INFO  com.solvd.bookstore.BookStore - What is your username
+14:59:38.208 [main] INFO  com.solvd.bookstore.BookStore - What is your password
+14:59:41.071 [main] INFO  com.solvd.bookstore.BookStore - 
+14:59:41.071 [main] INFO  com.solvd.bookstore.BookStore - 
+14:59:41.072 [main] INFO  com.solvd.bookstore.BookStore - Welcome customer to the Customer Menu
+14:59:41.072 [main] INFO  com.solvd.bookstore.BookStore - Choose an option.
+14:59:41.072 [main] INFO  com.solvd.bookstore.BookStore - 1. Search for book by keyword
+14:59:41.072 [main] INFO  com.solvd.bookstore.BookStore - 2. Show all books available
+14:59:41.072 [main] INFO  com.solvd.bookstore.BookStore - 3. Show all books in the cart
+14:59:41.072 [main] INFO  com.solvd.bookstore.BookStore - 4. Show book by category
+14:59:41.072 [main] INFO  com.solvd.bookstore.BookStore - 5. Add book to cart
+14:59:41.072 [main] INFO  com.solvd.bookstore.BookStore - 6. Checkout
+14:59:41.072 [main] INFO  com.solvd.bookstore.BookStore - 7. Change Username
+14:59:41.072 [main] INFO  com.solvd.bookstore.BookStore - 8. Change Password
+14:59:46.660 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+14:59:46.660 [main] INFO  com.solvd.bookstore.BookStore - 
+14:59:46.660 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+14:59:46.661 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+14:59:46.661 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+14:59:58.328 [main] INFO  com.solvd.bookstore.BookStore - You are in the admin login menu
+14:59:58.329 [main] INFO  com.solvd.bookstore.BookStore - Type in 0 as your username to go to the main menu!
+14:59:58.329 [main] INFO  com.solvd.bookstore.BookStore - What is your username?
+15:00:01.168 [main] INFO  com.solvd.bookstore.BookStore - What is your password?
+15:00:02.652 [main] INFO  com.solvd.bookstore.BookStore - Welcome admin to the Admin Menu
+15:00:02.652 [main] INFO  com.solvd.bookstore.BookStore - What do you want to do?
+15:00:02.652 [main] INFO  com.solvd.bookstore.BookStore - 1. Add a new book
+15:00:02.652 [main] INFO  com.solvd.bookstore.BookStore - 2. Delete a book
+15:00:02.652 [main] INFO  com.solvd.bookstore.BookStore - 3. Show all the books
+15:00:02.652 [main] INFO  com.solvd.bookstore.BookStore - 4. Show all the orders
+15:00:02.653 [main] INFO  com.solvd.bookstore.BookStore - 5. Change Username
+15:00:02.653 [main] INFO  com.solvd.bookstore.BookStore - 6. Change Password
+15:00:04.578 [main] ERROR com.solvd.bookstore.BookStore - An error occurred: Cannot invoke "java.util.ArrayList.forEach(java.util.function.Consumer)" because the return value of "com.solvd.bookstore.data.BooksData.getBooks()" is null
+15:01:57.450 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+15:01:57.452 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+15:01:57.452 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+15:01:57.452 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+15:01:57.458 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+15:01:57.459 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+15:01:57.459 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+15:01:57.462 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+15:01:57.462 [main] INFO  com.solvd.bookstore.BookStore - 
+15:01:57.462 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+15:01:57.462 [main] INFO  com.solvd.bookstore.BookStore - 
+15:01:57.463 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+15:01:57.463 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+15:01:57.463 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+15:02:04.716 [main] INFO  com.solvd.bookstore.BookStore - You are in the admin login menu
+15:02:04.717 [main] INFO  com.solvd.bookstore.BookStore - Type in 0 as your username to go to the main menu!
+15:02:04.717 [main] INFO  com.solvd.bookstore.BookStore - What is your username?
+15:02:08.035 [main] INFO  com.solvd.bookstore.BookStore - What is your password?
+15:02:09.274 [main] INFO  com.solvd.bookstore.BookStore - Welcome admin to the Admin Menu
+15:02:09.274 [main] INFO  com.solvd.bookstore.BookStore - What do you want to do?
+15:02:09.275 [main] INFO  com.solvd.bookstore.BookStore - 1. Add a new book
+15:02:09.275 [main] INFO  com.solvd.bookstore.BookStore - 2. Delete a book
+15:02:09.275 [main] INFO  com.solvd.bookstore.BookStore - 3. Show all the books
+15:02:09.275 [main] INFO  com.solvd.bookstore.BookStore - 4. Show all the orders
+15:02:09.275 [main] INFO  com.solvd.bookstore.BookStore - 5. Change Username
+15:02:09.275 [main] INFO  com.solvd.bookstore.BookStore - 6. Change Password
+15:03:02.698 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+15:03:02.700 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+15:03:02.700 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+15:03:02.701 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+15:03:02.709 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+15:03:02.709 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+15:03:02.709 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+15:03:02.710 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+15:03:02.710 [main] INFO  com.solvd.bookstore.BookStore - 
+15:03:02.710 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+15:03:02.710 [main] INFO  com.solvd.bookstore.BookStore - 
+15:03:02.710 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+15:03:02.710 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+15:03:02.710 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+15:03:05.655 [main] INFO  com.solvd.bookstore.BookStore - You are in the admin login menu
+15:03:05.655 [main] INFO  com.solvd.bookstore.BookStore - Type in 0 as your username to go to the main menu!
+15:03:05.655 [main] INFO  com.solvd.bookstore.BookStore - What is your username?
+15:03:08.627 [main] INFO  com.solvd.bookstore.BookStore - What is your password?
+15:03:10.467 [main] INFO  com.solvd.bookstore.BookStore - Welcome admin to the Admin Menu
+15:03:10.467 [main] INFO  com.solvd.bookstore.BookStore - What do you want to do?
+15:03:10.467 [main] INFO  com.solvd.bookstore.BookStore - 1. Add a new book
+15:03:10.467 [main] INFO  com.solvd.bookstore.BookStore - 2. Delete a book
+15:03:10.467 [main] INFO  com.solvd.bookstore.BookStore - 3. Show all the books
+15:03:10.467 [main] INFO  com.solvd.bookstore.BookStore - 4. Show all the orders
+15:03:10.468 [main] INFO  com.solvd.bookstore.BookStore - 5. Change Username
+15:03:10.468 [main] INFO  com.solvd.bookstore.BookStore - 6. Change Password
+15:03:12.473 [main] ERROR com.solvd.bookstore.BookStore - An error occurred: Cannot invoke "java.util.ArrayList.forEach(java.util.function.Consumer)" because the return value of "com.solvd.bookstore.data.BooksData.getBooks()" is null
+15:03:36.278 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+15:03:36.280 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+15:03:36.280 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+15:03:36.280 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+15:03:36.285 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+15:03:36.285 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+15:03:36.286 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+15:03:36.286 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+15:03:36.286 [main] INFO  com.solvd.bookstore.BookStore - 
+15:03:36.286 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+15:03:36.286 [main] INFO  com.solvd.bookstore.BookStore - 
+15:03:36.286 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+15:03:36.287 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+15:03:36.287 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+15:03:39.036 [main] INFO  com.solvd.bookstore.BookStore - You are in the admin login menu
+15:03:39.036 [main] INFO  com.solvd.bookstore.BookStore - Type in 0 as your username to go to the main menu!
+15:03:39.036 [main] INFO  com.solvd.bookstore.BookStore - What is your username?
+15:03:41.384 [main] INFO  com.solvd.bookstore.BookStore - What is your password?
+15:03:44.871 [main] INFO  com.solvd.bookstore.BookStore - Welcome admin to the Admin Menu
+15:03:44.872 [main] INFO  com.solvd.bookstore.BookStore - What do you want to do?
+15:03:44.872 [main] INFO  com.solvd.bookstore.BookStore - 1. Add a new book
+15:03:44.872 [main] INFO  com.solvd.bookstore.BookStore - 2. Delete a book
+15:03:44.872 [main] INFO  com.solvd.bookstore.BookStore - 3. Show all the books
+15:03:44.872 [main] INFO  com.solvd.bookstore.BookStore - 4. Show all the orders
+15:03:44.872 [main] INFO  com.solvd.bookstore.BookStore - 5. Change Username
+15:03:44.872 [main] INFO  com.solvd.bookstore.BookStore - 6. Change Password
+15:03:46.808 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+15:03:46.808 [main] INFO  com.solvd.bookstore.BookStore - 
+15:03:46.808 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+15:03:46.808 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+15:03:46.808 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+15:11:39.402 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+15:11:39.404 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+15:11:39.404 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+15:11:39.404 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+15:11:39.410 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+15:11:39.410 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+15:11:39.411 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+15:11:39.411 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+15:11:39.411 [main] INFO  com.solvd.bookstore.BookStore - 
+15:11:39.411 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+15:11:39.411 [main] INFO  com.solvd.bookstore.BookStore - 
+15:11:39.411 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+15:11:39.412 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+15:11:39.412 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+15:18:27.680 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+15:18:27.682 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+15:18:27.682 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+15:18:27.682 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+15:18:27.688 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+15:18:27.688 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+15:18:27.688 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+15:18:27.689 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+15:18:27.689 [main] INFO  com.solvd.bookstore.BookStore - 
+15:18:27.689 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+15:18:27.689 [main] INFO  com.solvd.bookstore.BookStore - 
+15:18:27.690 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+15:18:27.690 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+15:18:27.690 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+15:19:14.722 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+15:19:14.724 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+15:19:14.724 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+15:19:14.724 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+15:19:14.730 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+15:19:14.730 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+15:19:14.731 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+15:19:14.731 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+15:19:14.731 [main] INFO  com.solvd.bookstore.BookStore - 
+15:19:14.731 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+15:19:14.731 [main] INFO  com.solvd.bookstore.BookStore - 
+15:19:14.731 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+15:19:14.732 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+15:19:14.732 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+15:26:36.207 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+15:26:36.209 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+15:26:36.209 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+15:26:36.209 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+15:26:36.216 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+15:26:36.216 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+15:26:36.216 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+15:26:36.217 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+15:26:36.217 [main] INFO  com.solvd.bookstore.BookStore - 
+15:26:36.217 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+15:26:36.217 [main] INFO  com.solvd.bookstore.BookStore - 
+15:26:36.217 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+15:26:36.218 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+15:26:36.218 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+15:42:29.966 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+15:42:29.968 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+15:42:29.969 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+15:42:29.969 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+15:42:29.974 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+15:42:29.975 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+15:42:29.975 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+15:42:29.975 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+15:42:29.975 [main] INFO  com.solvd.bookstore.BookStore - 
+15:42:29.975 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+15:42:29.975 [main] INFO  com.solvd.bookstore.BookStore - 
+15:42:29.976 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+15:42:29.976 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+15:42:29.976 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+15:49:10.036 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+15:49:10.040 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+15:49:10.040 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+15:49:10.041 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+15:49:10.047 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+15:49:10.047 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+15:49:10.048 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+15:49:10.048 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+15:49:10.048 [main] INFO  com.solvd.bookstore.BookStore - 
+15:49:10.048 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+15:49:10.048 [main] INFO  com.solvd.bookstore.BookStore - 
+15:49:10.048 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+15:49:10.049 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+15:49:10.049 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+15:52:14.076 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+15:52:14.078 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+15:52:14.078 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+15:52:14.078 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+15:52:14.084 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+15:52:14.084 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+15:52:14.084 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+15:52:14.085 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+15:52:14.085 [main] INFO  com.solvd.bookstore.BookStore - 
+15:52:14.085 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+15:52:14.085 [main] INFO  com.solvd.bookstore.BookStore - 
+15:52:14.085 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+15:52:14.085 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+15:52:14.086 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+16:13:30.217 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+16:13:30.219 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+16:13:30.219 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+16:13:30.219 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+16:13:30.224 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+16:13:30.224 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+16:13:30.225 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+16:13:30.225 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+16:13:30.225 [main] INFO  com.solvd.bookstore.BookStore - 
+16:13:30.225 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+16:13:30.225 [main] INFO  com.solvd.bookstore.BookStore - 
+16:13:30.226 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+16:13:30.226 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+16:13:30.226 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+16:27:33.075 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+16:27:33.078 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+16:27:33.078 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+16:27:33.078 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+16:27:33.084 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+16:27:33.084 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+16:27:33.084 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+16:27:33.085 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+16:27:33.085 [main] INFO  com.solvd.bookstore.BookStore - 
+16:27:33.085 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+16:27:33.085 [main] INFO  com.solvd.bookstore.BookStore - 
+16:27:33.085 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+16:27:33.085 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+16:27:33.085 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+09:19:29.579 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+09:19:29.582 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+09:19:29.582 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+09:19:29.582 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+09:19:29.591 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+09:19:29.591 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+09:19:29.592 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+09:19:29.592 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+09:19:29.592 [main] INFO  com.solvd.bookstore.BookStore - 
+09:19:29.592 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+09:19:29.592 [main] INFO  com.solvd.bookstore.BookStore - 
+09:19:29.592 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+09:19:29.592 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+09:19:29.592 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+09:21:19.007 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+09:21:19.009 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+09:21:19.009 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+09:21:19.009 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+09:21:19.015 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+09:21:19.015 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+09:21:19.016 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+09:21:19.016 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+09:21:19.016 [main] INFO  com.solvd.bookstore.BookStore - 
+09:21:19.016 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+09:21:19.016 [main] INFO  com.solvd.bookstore.BookStore - 
+09:21:19.017 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+09:21:19.017 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+09:21:19.017 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+09:51:21.234 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+09:51:21.236 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+09:51:21.236 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+09:51:21.236 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+09:51:21.242 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+09:51:21.242 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+09:51:21.242 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+09:51:21.243 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+09:51:21.243 [main] INFO  com.solvd.bookstore.BookStore - 
+09:51:21.243 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+09:51:21.243 [main] INFO  com.solvd.bookstore.BookStore - 
+09:51:21.243 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+09:51:21.243 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+09:51:21.244 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+09:52:50.192 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+09:52:50.194 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+09:52:50.194 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+09:52:50.194 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+09:52:50.201 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+09:52:50.201 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+09:52:50.201 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+09:52:50.202 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+09:52:50.202 [main] INFO  com.solvd.bookstore.BookStore - 
+09:52:50.202 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+09:52:50.202 [main] INFO  com.solvd.bookstore.BookStore - 
+09:52:50.203 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+09:52:50.203 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+09:52:50.203 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+09:53:35.117 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+09:53:35.119 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+09:53:35.120 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a'}
+09:53:35.120 [main] INFO  com.solvd.bookstore.BookStore - User{username='username', password='a2'}
+09:53:35.125 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+09:53:35.125 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='123 North Street', city='New York', state='NY', zip='74644', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+09:53:35.126 [main] INFO  com.solvd.bookstore.BookStore - Customer{orders=[], address=Address{street='321 South Street', city='Los Angeles', state='CA', zip='84743', country='USA'}, cart=ShoppingCart{books=[], coupon=null}}
+09:53:35.126 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+09:53:35.126 [main] INFO  com.solvd.bookstore.BookStore - 
+09:53:35.126 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+09:53:35.126 [main] INFO  com.solvd.bookstore.BookStore - 
+09:53:35.126 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+09:53:35.127 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+09:53:35.127 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+10:08:22.754 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+10:08:22.757 [main] INFO  com.solvd.bookstore.BookStore - 
+10:08:22.757 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+10:08:22.757 [main] INFO  com.solvd.bookstore.BookStore - 
+10:08:22.757 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+10:08:22.757 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+10:08:22.757 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+20:51:05.815 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+20:51:05.819 [main] INFO  com.solvd.bookstore.BookStore - 
+20:51:05.819 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+20:51:05.819 [main] INFO  com.solvd.bookstore.BookStore - 
+20:51:05.819 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+20:51:05.820 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+20:51:05.820 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+21:04:49.386 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+21:04:49.389 [main] INFO  com.solvd.bookstore.BookStore - 
+21:04:49.389 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+21:04:49.390 [main] INFO  com.solvd.bookstore.BookStore - 
+21:04:49.390 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+21:04:49.390 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+21:04:49.390 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+21:07:56.849 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+21:07:56.852 [main] INFO  com.solvd.bookstore.BookStore - 
+21:07:56.852 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+21:07:56.853 [main] INFO  com.solvd.bookstore.BookStore - 
+21:07:56.853 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+21:07:56.853 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+21:07:56.853 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+22:09:22.042 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+22:09:22.046 [main] INFO  com.solvd.bookstore.BookStore - 
+22:09:22.046 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+22:09:22.046 [main] INFO  com.solvd.bookstore.BookStore - 
+22:09:22.046 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+22:09:22.046 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+22:09:22.047 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
