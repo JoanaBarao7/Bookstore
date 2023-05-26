@@ -1652,3 +1652,10 @@
 22:09:22.046 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
 22:09:22.046 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
 22:09:22.047 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin
+10:23:19.063 [main] INFO  com.solvd.bookstore.BookStore - Welcome to the Bookstore!
+10:23:19.065 [main] INFO  com.solvd.bookstore.BookStore - 
+10:23:19.065 [main] INFO  com.solvd.bookstore.BookStore - You are now in the main menu.
+10:23:19.065 [main] INFO  com.solvd.bookstore.BookStore - 
+10:23:19.065 [main] INFO  com.solvd.bookstore.BookStore - Are you a customer or an admin?
+10:23:19.066 [main] INFO  com.solvd.bookstore.BookStore - 1. Customer
+10:23:19.066 [main] INFO  com.solvd.bookstore.BookStore - 2. Admin

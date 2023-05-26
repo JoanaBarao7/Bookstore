@@ -13,6 +13,11 @@ public class Author extends Person {
         this.biography = biography;
     }
 
+    public Author(String name){
+        this.setName(name);
+    }
+
+
     public String getBiography() {
         return biography;
     }

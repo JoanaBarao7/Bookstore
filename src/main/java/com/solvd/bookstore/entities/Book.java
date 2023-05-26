@@ -30,6 +30,14 @@ public class Book implements ISearchable<Book> {
         this.isbn = isbn;
     }
 
+    public Book(String title, Author author, double price) {
+        this.title = title;
+        this.author = author;
+        this.price = price;
+    }
+
+
+
     @Override
     public boolean searchByKeyword(String keyword) {
         return this.title.contains(keyword) || this.author.toString().contains(keyword) || this.publisher.toString().contains(keyword);

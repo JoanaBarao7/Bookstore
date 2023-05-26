@@ -19,6 +19,7 @@ public class ConnectionPool {
             synchronized (ConnectionPool.class) {
                 if (instance == null) {
                     instance = new ConnectionPool(poolSize);
+                    instance.initializeConnections();
                 }
             }
         }
@@ -27,8 +28,8 @@ public class ConnectionPool {
 
     private Connection createConnection() {
         String url = "jdbc:mysql://localhost:3306/mydatabase";
-        String username = "your-username";
-        String password = "your-password";
+        String username = "my-username";
+        String password = "my-password";
         return new Connection(url, username, password);
     }
 
@@ -40,7 +41,7 @@ public class ConnectionPool {
     }
     private void initializeConnections() {
         for (int i = 0; i < poolSize; i++) {
-            Connection connection = createConnection(); // You can mock or create a real connection here
+            Connection connection = createConnection(); // Mock or create a real connection here
             connections.offer(connection);
         }
     }

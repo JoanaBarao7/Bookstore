@@ -11,7 +11,6 @@ public class ConnectionPoolTest {
         // Create an instance of the connection pool
         ConnectionPool connectionPool = ConnectionPool.getInstance(POOL_SIZE);
 
-
         // Create an ExecutorService with 7 threads
         ExecutorService executorService = Executors.newFixedThreadPool(7);
 
