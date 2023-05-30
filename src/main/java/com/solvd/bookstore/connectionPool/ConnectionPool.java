@@ -8,10 +8,13 @@ public class ConnectionPool {
     private final BlockingQueue<Connection> connections; // The collection to hold the connections
     private final Object lock = new Object(); // A lock object for synchronization
     private static ConnectionPool instance = null; // The singleton instance of the connection pool
+    private int availableConnections; // The number of connections
+
 
     private ConnectionPool(int poolSize) {
         this.poolSize = poolSize;
         this.connections = new ArrayBlockingQueue<>(poolSize);
+        this.availableConnections = poolSize;
     }
 
     public static ConnectionPool getInstance(int poolSize) {
@@ -34,11 +37,24 @@ public class ConnectionPool {
     }
 
     public Connection getConnection() throws InterruptedException {
-        return connections.take();
+        synchronized (lock) {
+            while (availableConnections == 0) {
+                lock.wait();
+            }
+            Connection connection = connections.take();
+            availableConnections--;
+            return connection;
+        }
     }
+
     public void releaseConnection(Connection connection) {
-        connections.offer(connection);
+        synchronized (lock) {
+            connections.offer(connection);
+            availableConnections++;
+            lock.notify();
+        }
     }
+
     private void initializeConnections() {
         for (int i = 0; i < poolSize; i++) {
             Connection connection = createConnection(); // Mock or create a real connection here
